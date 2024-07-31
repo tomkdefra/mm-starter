@@ -1,6 +1,9 @@
 ---
 title: "Learning and Development"
 permalink: /learning-and-development/
+nav:
+  section: main
+  sub_section: learning-and-development
 ---
 
 Before enrolling on any further training, please ensure you have completed the necessary DASH environment and tool configuration 

@@ -9,3 +9,13 @@ main:
     url: /about/
   - title: "Newsletter"
     url: /newsletter/
+
+learning-and-development:
+  - title: "Learning and Development"
+    url: /learning-and-development/
+  - title: "Data Science Pathways"
+    url: /learning-and-development/pathways/
+  - title: "Platform Training"
+    url: /learning-and-development/training/
+  - title: "DataCamp"
+    url: /learning-and-development/datacamp/

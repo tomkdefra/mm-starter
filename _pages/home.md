@@ -6,7 +6,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/DASH_logo_colour.png
+  overlay_image: /assets/images/2023-09-04-00_00_2023-09-04-23_59_Sentinel-2_L2A_True_color.jpg
   actions:
     - label: "Get Started"
       url: "/get-started/"

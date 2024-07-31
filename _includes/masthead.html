@@ -12,7 +12,11 @@
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
         <ul class="visible-links">
-          {%- assign nav_links = page.nav_links | default: site.data.navigation.main -%}
+          {% if page.nav_links %}
+            {%- assign nav_links = page.nav_links -%}
+          {% else %}
+            {%- assign nav_links = site.data.navigation.main -%}
+          {% endif %}
           {%- for link in nav_links -%}
             <li class="masthead__menu-item">
               <a

@@ -3,8 +3,6 @@ title: "Learning and Development"
 permalink: /learning-and-development/
 ---
 
-# Learning and Development
-
 Before enrolling on any further training, please ensure you have completed the necessary DASH environment and tool configuration 
 set up in the [Get Started](/mm-starter/get-started) section. 
 

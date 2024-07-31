@@ -1,8 +1,8 @@
 ---
-title: "Splash Page"
+title: "DASH"
 layout: splash
 permalink: /
-date: 2016-03-23T11:48:41-04:00
+date: 2024-07-31T16:38
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

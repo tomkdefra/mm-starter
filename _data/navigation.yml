@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "Get Started"
+    url: /get-started/
+  - title: "Documentation"
+    url: /docs/
+  - title: "Learning and Development"
+    url: /learning-and-development/
+  - title: "About DASH"
     url: /about/

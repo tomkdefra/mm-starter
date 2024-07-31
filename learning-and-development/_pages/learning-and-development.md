@@ -12,6 +12,11 @@ nav_links:
 
 {% if page.nav_links %}
 <p>page.nav_links exists</p>
+<ul>
+  {% for link in page.nav_links %}
+  <li>{{ link.title }} - {{ link.url }}</li>
+  {% endfor %}
+</ul>
 {% else %}
 <p>page.nav_links does not exist</p>
 {% endif %}

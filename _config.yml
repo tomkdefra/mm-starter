@@ -36,6 +36,7 @@ timezone: BST
 
 include:
   - _pages
+  - learning-and-development/_pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -10,17 +10,6 @@ nav_links:
     url: "/learning-and-development/datacamp/"
 ---
 
-{% if page.nav_links %}
-<p>page.nav_links exists</p>
-<ul>
-  {% for link in page.nav_links %}
-  <li>{{ link.title }} - {{ link.url }}</li>
-  {% endfor %}
-</ul>
-{% else %}
-<p>page.nav_links does not exist</p>
-{% endif %}
-
 Before enrolling on any further training, please ensure you have completed the necessary DASH environment and tool configuration 
 set up in the [Get Started](/mm-starter/get-started) section. 
 

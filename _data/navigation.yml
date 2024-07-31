@@ -7,3 +7,5 @@ main:
     url: /learning-and-development/
   - title: "About DASH"
     url: /about/
+    - title: "Newsletter"
+    url: /newsletter/

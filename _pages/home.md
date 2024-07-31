@@ -6,7 +6,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: assets\images\DASH_logo_colour.png
+  overlay_image: /assets/images/DASH_logo_colour.png
   actions:
     - label: "Get Started"
       url: "/get-started/"
@@ -15,11 +15,11 @@ excerpt: "The Data, Analytics & Science Hub (DASH) is a service providing suppor
 intro: 
   - excerpt: "The Data, Analytics & Science Hub (DASH) is a service providing support to data scientists across Defra group."
 feature_row:
-  - image_path: assets\images\DASH_logo_colour.png
+  - image_path: /assets/images/DASH_logo_colour.png
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: assets\images\DASH_logo_colour.png
+  - image_path: /assets/images/DASH_logo_colour.png
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Placeholder 2"
@@ -27,11 +27,11 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets\images\DASH_logo_colour.png
+  - image_path: /assets/images/DASH_logo_colour.png
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: assets\images\DASH_logo_colour.png
+  - image_path: /assets/images/DASH_logo_colour.png
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
@@ -39,7 +39,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: assets\images\DASH_logo_colour.png
+  - image_path: /assets/images/DASH_logo_colour.png
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
@@ -47,7 +47,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: assets\images\DASH_logo_colour.png
+  - image_path: /assets/images/DASH_logo_colour.png
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'

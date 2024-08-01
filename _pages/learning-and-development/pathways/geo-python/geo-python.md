@@ -24,17 +24,15 @@ After completing this course, learners will (1) understand basic programming con
 
 The course runs for seven weeks in the autumn semester starting on the 4th of September 2023. New materials are updated on this course page each Monday.
 
-| Week | Theme                                  |
-|------|----------------------------------------|
-| **1**| Basic concepts of Python and computer  |
-|      | programs                               |
-| **2**| Diving into Python                     |
-| **3**| Repeating tasks and making decisions   |
-| **4**| Creating and using functions           |
-| **5**| Data analysis Part I                   |
-| **6**| Data analysis Part II + Dealing with   |
-|      | errors                                 |
-| **7**| Data visualization                     |
+| Week | Theme                                              |
+|------|----------------------------------------------------|
+| **1**| Basic concepts of Python and computer programs     |
+| **2**| Diving into Python                                 |
+| **3**| Repeating tasks and making decisions               |
+| **4**| Creating and using functions                       |
+| **5**| Data analysis Part I                               |
+| **6**| Data analysis Part II + Dealing with errors        |
+| **7**| Data visualization                                 |
 
 **Step by step instructions with cloud computing!**
 

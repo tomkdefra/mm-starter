@@ -12,18 +12,25 @@
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
         <ul class="visible-links">
-          {% if page.permalink contains '/learning-and-development/' %}
-            {%- assign nav_links = site.data.navigation.learning_and_development -%}
+          <!-- Debugging output -->
+          <li>
+            <p>page.nav_links: {{ page.nav_links | inspect }}</p>
+            <p>site.data.navigation.main: {{ site.data.navigation.main | inspect }}</p>
+          </li>
+          {% if page.nav_links %}
+            <li><p>Using page.nav_links</p></li>
+            {%- assign nav_links = page.nav_links -%}
           {% else %}
+            <li><p>Using site.data.navigation.main</p></li>
             {%- assign nav_links = site.data.navigation.main -%}
           {% endif %}
           {%- for link in nav_links -%}
             <li class="masthead__menu-item">
-              <a
-                href="{{ link.url | relative_url }}"
-                {% if link.description %} title="{{ link.description }}"{% endif %}
-                {% if link.target %} target="{{ link.target }}"{% endif %}
-              >{{ link.title }}</a>
+              <a href="{{ link.url | relative_url }}"
+                 {% if link.description %} title="{{ link.description }}"{% endif %}
+                 {% if link.target %} target="{{ link.target }}"{% endif %}>
+                {{ link.title }}
+              </a>
             </li>
           {%- endfor -%}
         </ul>

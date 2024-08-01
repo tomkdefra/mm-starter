@@ -1,16 +1,7 @@
 ---
-kernelspec:
-  name: python3
-  display_name: python3
-jupytext:
-  text_representation:
-    extension: .md 
-    format_name: myst
-    format_version: '0.13'
-    jupytext_version: 1.14.1
+title: "Motivation behind this course"
+permalink: /auto-gis/lessons/lesson-1/course-motivation
 ---
-
-# Motivation behind this course
 
 ## General overview
 

@@ -3,35 +3,6 @@ title: "General information"
 permalink: /auto-gis/course-info/general-information/
 ---
 
-# General information
-
-:::{admonition} Contact teaching at the University of Helsinki
-:class: info
-
-Please note that access to *Discord* and to the *CSC Notebooks* is limited to students at Finnish universities. The recorded lesson videos, as well as all other course material on this page, are available to anyone interested.
-
-:::
-
-
-## Course meetings in teaching period Ⅱ
-
-- Lectures on {{lectures_weekday_time_location}}
-- Work sessions on {{work_sessions_weekday_time_location}}
-
-
-## Instructors
-
-- Lecturer: 
-    - Kamyar Hasanzadeh
-
-- Course assistants:
-    - Mikko Kangasmaa
-    - Aino Schulz
-    - Veeti Sihvola
-
-Email: firstname.lastname@helsinki.fi
-
-
 ## Course web pages:
 
 - *Automating GIS processes* (period Ⅱ)

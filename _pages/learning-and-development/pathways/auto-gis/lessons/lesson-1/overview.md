@@ -1,4 +1,7 @@
-# Overview
+---
+title: "Overview"
+permalink: /auto-gis/lessons/lesson-1/overview
+---
 
 Before we start to work with entire data sets next week, we first have to become
 familiar with basic geometric objects (primitives): in the centre of this week’s

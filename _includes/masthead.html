@@ -12,8 +12,8 @@
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
         <ul class="visible-links">
-          {% if page.nav_links %}
-            {%- assign nav_links = page.nav_links -%}
+          {% if page.permalink contains '/learning-and-development/' %}
+            {%- assign nav_links = site.data.navigation.learning_and_development -%}
           {% else %}
             {%- assign nav_links = site.data.navigation.main -%}
           {% endif %}

@@ -10,6 +10,147 @@ main:
   - title: "Newsletter"
     url: /newsletter/
 
+geo-python:
+  - title: Course information
+    children:
+      - title: "General info"
+        url: /geo-python/course-info/general-info/
+      - title: "Learning goals"
+        url: /geo-python/course-info/learning-goals/
+      - title: "Grading"
+        url: /geo-python/course-info/grading/
+      - title: "Use of AI tools"
+        url: /geo-python/course-info/use-of-ai-tools/
+      - title: "License and using our materials"
+        url: /geo-python/course-info/license-and-using-materials/
+      - title: "The Geo-Python team"
+        url: /geo-python/course-info/geo-python-team/
+  
+  - title: Lesson 1
+    children:
+      - title: "Motivation for the course"
+        url: /geo-python/lessons/lesson-1/motivation-for-the-course/
+      - title: "Lesson overview"
+        url: /geo-python/lessons/lesson-1/lesson-overview/
+      - title: "Course environment"
+        url: /geo-python/lessons/lesson-1/course-environment/
+      - title: "Communicating with Discord"
+        url: /geo-python/lessons/lesson-1/communicating-with-discord/
+      - title: "A taste of Python"
+        url: /geo-python/lessons/lesson-1/a-taste-of-python/
+      - title: "GCP 1 - Selecting 'good' variable names"
+        url: /geo-python/lessons/lesson-1/gcp-1-selecting-good-variable-names/
+      - title: "Exercise 1"
+        url: /geo-python/lessons/lesson-1/exercise-1/
+  
+  - title: Lesson 2
+    children:
+      - title: "Lesson overview"
+        url: /geo-python/lessons/lesson-2/lesson-overview/
+      - title: "Basic elements of Python"
+        url: /geo-python/lessons/lesson-2/basic-elements-of-python/
+      - title: "Introduction to Version Control"
+        url: /geo-python/lessons/lesson-2/introduction-to-version-control/
+      - title: "Meet Git"
+        url: /geo-python/lessons/lesson-2/meet-git/
+      - title: "Using Classroom for Github"
+        url: /geo-python/lessons/lesson-2/using-classroom-for-github/
+      - title: "GCP 2 - Describing your code"
+        url: /geo-python/lessons/lesson-2/gcp-2-describing-your-code/
+      - title: "Why are we working in pairs?"
+        url: /geo-python/lessons/lesson-2/why-are-we-working-in-pairs/
+      - title: "Exercise 2"
+        url: /geo-python/lessons/lesson-2/exercise-2/
+  
+  - title: Lesson 3
+    children:
+      - title: "Lesson overview"
+        url: /geo-python/lessons/lesson-3/lesson-overview/
+      - title: "for loops"
+        url: /geo-python/lessons/lesson-3/for-loops/
+      - title: "Conditional statements"
+        url: /geo-python/lessons/lesson-3/conditional-statements/
+      - title: "GCP 3 - Writing readable code"
+        url: /geo-python/lessons/lesson-3/gcp-3-writing-readable-code/
+      - title: "Exercise 3"
+        url: /geo-python/lessons/lesson-3/exercise-3/
+  
+  - title: Lesson 4
+    children:
+      - title: "Lesson overview"
+        url: /geo-python/lessons/lesson-4/lesson-overview/
+      - title: "Functions"
+        url: /geo-python/lessons/lesson-4/functions/
+      - title: "AI and programming in Python"
+        url: /geo-python/lessons/lesson-4/ai-and-programming-in-python/
+      - title: "Using script files"
+        url: /geo-python/lessons/lesson-4/using-script-files/
+      - title: "Loading and using modules"
+        url: /geo-python/lessons/lesson-4/loading-and-using-modules/
+      - title: "GCP 4 - Writing our scripts the 'right' way"
+        url: /geo-python/lessons/lesson-4/gcp-4-writing-our-scripts-the-right-way/
+      - title: "Exercise 4"
+        url: /geo-python/lessons/lesson-4/exercise-4/
+  
+  - title: Lesson 5
+    children:
+      - title: "Lesson overview"
+        url: /geo-python/lessons/lesson-5/lesson-overview/
+      - title: "What is pandas?"
+        url: /geo-python/lessons/lesson-5/what-is-pandas/
+      - title: "Exploring data using pandas"
+        url: /geo-python/lessons/lesson-5/exploring-data-using-pandas/
+      - title: "Processing data with pandas"
+        url: /geo-python/lessons/lesson-5/processing-data-with-pandas/
+      - title: "Exercise 5"
+        url: /geo-python/lessons/lesson-5/exercise-5/
+  
+  - title: Lesson 6
+    children:
+      - title: "Lesson overview"
+        url: /geo-python/lessons/lesson-6/lesson-overview/
+      - title: "Processing data with pandas II"
+        url: /geo-python/lessons/lesson-6/processing-data-with-pandas-ii/
+      - title: "Dealing with errors"
+        url: /geo-python/lessons/lesson-6/dealing-with-errors/
+      - title: "GCP 5 - Using assertions"
+        url: /geo-python/lessons/lesson-6/gcp-5-using-assertions/
+      - title: "Debugging your Python code"
+        url: /geo-python/lessons/lesson-6/debugging-your-python-code/
+      - title: "Exercise 6"
+        url: /geo-python/lessons/lesson-6/exercise-6/
+  
+  - title: Lesson 7
+    children:
+      - title: "Lesson overview"
+        url: /geo-python/lessons/lesson-7/lesson-overview/
+      - title: "Plotting in Python"
+        url: /geo-python/lessons/lesson-7/plotting-in-python/
+      - title: "Anatomy of a plot"
+        url: /geo-python/lessons/lesson-7/anatomy-of-a-plot/
+      - title: "Basic plotting with pandas and Matplotlib"
+        url: /geo-python/lessons/lesson-7/basic-plotting-with-pandas-and-matplotlib/
+      - title: "More advanced plotting with pandas/Matplotlib"
+        url: /geo-python/lessons/lesson-7/more-advanced-plotting-with-pandas-matplotlib/
+      - title: "Exercise 7"
+        url: /geo-python/lessons/lesson-7/exercise-7/
+  
+  - title: Final exercise
+    children:
+      - title: "Final exercise assignment"
+        url: /geo-python/final-exercise/final-exercise-assignment/
+      - title: "Grading"
+        url: /geo-python/final-exercise/grading/
+  
+  - title: Resources
+    children:
+      - title: "Glossary"
+        url: /geo-python/resources/glossary/
+      - title: "Installing Python"
+        url: /geo-python/resources/installing-python/
+      - title: "Useful books and sites"
+        url: /geo-python/resources/useful-books-and-sites/
+
 auto-gis:
   - title: Course information
     children:

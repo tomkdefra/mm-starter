@@ -6,7 +6,7 @@ date: 2024-07-31T16:38
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: /assets/images/2024-07-10-00_00_2024-07-10-23_59_Sentinel-1_AWS-IW-VVVH_SAR_urban.jpg
+  overlay_image: /assets/images/2024-07-10-00_00_2024-07-10-23_59_Sentinel-1_AWS-IW-VVVH_SAR_urban (1).jpg
   actions:
     - label: "Get Started"
       url: "/get-started/"

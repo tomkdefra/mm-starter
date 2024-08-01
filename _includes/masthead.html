@@ -12,16 +12,9 @@
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
         <ul class="visible-links">
-          <!-- Debugging output -->
-          <li>
-            <p>page.nav_links: {{ page.nav_links | inspect }}</p>
-            <p>site.data.navigation.main: {{ site.data.navigation.main | inspect }}</p>
-          </li>
-          {% if page.nav_links %}
-            <li><p>Using page.nav_links</p></li>
-            {%- assign nav_links = page.nav_links -%}
+          {% if page.url contains '/learning-and-development/' %}
+            {%- assign nav_links = site.data.navigation['learning-and-development'] -%}
           {% else %}
-            <li><p>Using site.data.navigation.main</p></li>
             {%- assign nav_links = site.data.navigation.main -%}
           {% endif %}
           {%- for link in nav_links -%}

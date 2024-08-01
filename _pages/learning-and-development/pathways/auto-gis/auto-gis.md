@@ -17,19 +17,18 @@ the Department of Geosciences and Geography, University of Helsinki, Finland,
 and the teaching material is openly available for anyone interested.
 
 
-:::{admonition} Open Access
-:class: info
+**Open Access**
 
 Course material and videos are **open for everyone**. The aim of this course is
 to share the knowledge and help people to get started with their journey
 towards doing GIS analyses more efficiently and in a better reproducible
 manner: using Python and its manifold modules. Feel free to share this website
-with anyone interested, and use the provided material in your own teaching. 
+with anyone interested, and use the provided material in your own teaching.
+{: .notice--info}
 
 Read more about the license and terms of usage 
 <a href="course-info/license.html">here</a>.
-
-:::
+{: .notice--info}
 
 
 After completing this course, a student is able to manage, analyse, and
@@ -43,16 +42,14 @@ their analysis workflow in an online repository (GitHub).
 
 
 
-:::{admonition} Interactive content
-:class: info
+**Interactive content**
 
 Each lesson in this course can be turned into an interactive programming session
 in the browser. You’ll find buttons for activating the python environment using
 <a href="https://mybinder.readthedocs.io/">Binder</a> at the top of each
 programming lesson. Students at Finnish higher education institutions are
 encouraged to use <a href="https://notebooks.csc.fi/">CSC’s *Notebooks*</a>.
-
-:::
+{: .notice--info}
 
 
 ## Course format
@@ -71,8 +68,7 @@ final exercise must be completed individually and must clearly reflect your own
 work.
 
 
-:::{admonition} Students at the University of Helsinki
-:class: hint
+**Students at the University of Helsinki**
 
 The *Automating GIS processes* course is part of the <a
 href="https://www.helsinki.fi/en/degree-programmes/geography-masters-programme">Master's
@@ -82,8 +78,7 @@ We recommend you complete *Introduction to advanced geoinformatics*
 (<a href="https://studies.helsinki.fi/courses/?searchText=GEOG-G301">`GEOG-G301`</a>)
 before enrolling into this course, and expect basic skills in Python programming, which you can acquire, for instance, in *Geo-Python*
 (<a href="https://studies.helsinki.fi/courses/?searchText=GEOG-329-1">`GEOG-329-1`</a>).
-
-:::
+{: .notice}
 
 
 ## Course topics by week
@@ -123,130 +118,3 @@ The course pages and material of earlier years are available at:
 - [2016](https://automating-gis-processes.github.io/2016/)
 
 
-## Contents
-
-```{toctree}
----
-caption: Course information
-maxdepth: 1
----
-
-course-info/general-information
-course-info/course-environment
-course-info/grading
-course-info/learning-goals
-course-info/installing-python
-course-info/create-python-gis-environment
-course-info/ai-tools
-course-info/resources
-course-info/license
-```
-
-```{toctree}
----
-caption: Lesson 1
-maxdepth: 2
----
-lessons/lesson-1/overview
-lessons/lesson-1/course-motivation
-lessons/lesson-1/geometry-objects
-lessons/lesson-1/exercise-1
-```
-
-```{toctree}
----
-caption: Lesson 2
-maxdepth: 2
----
-lessons/lesson-2/overview
-lessons/lesson-2/key-concepts
-lessons/lesson-2/managing-file-paths
-lessons/lesson-2/vector-data-io
-lessons/lesson-2/geopandas-an-introduction
-lessons/lesson-2/map-projections
-lessons/lesson-2/exercise-2
-```
-
-```{toctree}
----
-caption: Lesson 3
-maxdepth: 2
----
-lessons/lesson-3/overview
-lessons/lesson-3/geocoding
-lessons/lesson-3/geocoding-in-geopandas
-lessons/lesson-3/point-in-polygon-queries
-lessons/lesson-3/intersect
-lessons/lesson-3/spatial-join
-lessons/lesson-3/exercise-3
-```
-
-```{toctree}
----
-caption: Lesson 4
-maxdepth: 2
----
-lessons/lesson-4/overview
-lessons/lesson-4/overlay-analysis
-lessons/lesson-4/vector-data-aggregating
-lessons/lesson-4/simplifying-geometries
-lessons/lesson-4/reclassifying-data
-lessons/lesson-4/exercise-4
-```
-
-```{toctree}
----
-caption: Lesson 5
-maxdepth: 2
----
-lessons/lesson-5/overview
-lessons/lesson-5/static-maps
-lessons/lesson-5/interactive-maps
-lessons/lesson-5/exercise-5
-```
-
-```{toctree}
----
-caption: Lesson 6
-maxdepth: 2
----
-lessons/lesson-6/overview
-lessons/lesson-6/retrieve-data-from-openstreetmap
-lessons/lesson-6/network-analysis
-```
-
-```{toctree}
----
-caption: Final Assignment
-maxdepth: 2
----
-final-assignment/final-assignment
-final-assignment/final-assignment-grading
-final-assignment/final-assignment-hints
-```
-
-% ```{toctree}
-% ---
-% caption: "Extra: PyQGIS"
-% maxdepth: 2
-% ---
-% extra/pyqgis/overview
-% extra/pyqgis/pyqgis
-% extra/pyqgis/additional_pyqgis_functions
-% ```
-
-% ```{toctree}
-% ---
-% caption: "Extra: Raster handling in Python"
-% maxdepth: 2
-% ---
-% extra/raster/overview
-% extra/raster/download-data
-% extra/raster/reading-raster
-% extra/raster/plotting-raster
-% extra/raster/clipping-raster
-% extra/raster/raster-map-algebra
-% extra/raster/raster-mosaic
-% extra/raster/zonal-statistics
-% extra/raster/read-cogs
-% ```

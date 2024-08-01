@@ -1,6 +1,8 @@
 ---
 title: "Automating GIS Processes {{year}}"
 permalink: /learning-and-development/pathways/auto-gis
+sidebar:
+  nav: "docs"
 ---
 
 **Welcome to the *Automating GIS processes* course {{year}}!** Through interactive

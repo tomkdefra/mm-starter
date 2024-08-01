@@ -9,10 +9,116 @@ main:
     url: /about/
   - title: "Newsletter"
     url: /newsletter/
-learning-and-development:
-  - title: "Data Science Pathways"
-    url: /learning-and-development/pathways/
-  - title: "Platform Training"
-    url: /learning-and-development/training/
-  - title: "DataCamp"
-    url: /learning-and-development/datacamp/
+
+auto-gis:
+  - title: Course information
+    children:
+      - title: "General information"
+        url: /auto-gis/course-info/general-information/
+      - title: "Course environment"
+        url: /auto-gis/course-info/course-environment/
+      - title: "Grading"
+        url: /auto-gis/course-info/grading/
+      - title: "Learning goals"
+        url: /auto-gis/course-info/learning-goals/
+      - title: "Installing Python and Python packages"
+        url: /auto-gis/course-info/installing-python-packages/
+      - title: "Create a Python GIS environment"
+        url: /auto-gis/course-info/create-python-gis-environment/
+      - title: "Use of AI tools"
+        url: /auto-gis/course-info/use-of-ai-tools/
+      - title: "Resources"
+        url: /auto-gis/course-info/resources/
+      - title: "License and Terms of Use"
+        url: /auto-gis/course-info/license-terms/
+    
+  - title: Lesson 1
+    children:
+      - title: "Overview"
+        url: /auto-gis/lessons/lesson-1/overview/
+      - title: "Motivation behind this course"
+        url: /auto-gis/lessons/lesson-1/motivation/
+      - title: "Shapely and geometry objects"
+        url: /auto-gis/lessons/lesson-1/shapely-geometry-objects/
+      - title: "Exercise 1"
+        url: /auto-gis/lessons/lesson-1/exercise-1/
+  
+  - title: Lesson 2
+    children:
+      - title: "Overview"
+        url: /auto-gis/lessons/lesson-2/overview/
+      - title: "Key concepts"
+        url: /auto-gis/lessons/lesson-2/key-concepts/
+      - title: "Managing file paths"
+        url: /auto-gis/lessons/lesson-2/managing-file-paths/
+      - title: "Vector Data I/O"
+        url: /auto-gis/lessons/lesson-2/vector-data-io/
+      - title: "Geopandas: an introduction"
+        url: /auto-gis/lessons/lesson-2/geopandas-introduction/
+      - title: "Map projections"
+        url: /auto-gis/lessons/lesson-2/map-projections/
+      - title: "Exercise 2"
+        url: /auto-gis/lessons/lesson-2/exercise-2/
+  
+  - title: Lesson 3
+    children:
+      - title: "Overview"
+        url: /auto-gis/lessons/lesson-3/overview/
+      - title: "Geocoding"
+        url: /auto-gis/lessons/lesson-3/geocoding/
+      - title: "Geocoding in geopandas"
+        url: /auto-gis/lessons/lesson-3/geocoding-in-geopandas/
+      - title: "Point-in-polygon queries"
+        url: /auto-gis/lessons/lesson-3/point-in-polygon-queries/
+      - title: "Intersect"
+        url: /auto-gis/lessons/lesson-3/intersect/
+      - title: "Spatial join"
+        url: /auto-gis/lessons/lesson-3/spatial-join/
+      - title: "Exercise 3"
+        url: /auto-gis/lessons/lesson-3/exercise-3/
+  
+  - title: Lesson 4
+    children:
+      - title: "Overview"
+        url: /auto-gis/lessons/lesson-4/overview/
+      - title: "Overlay analysis"
+        url: /auto-gis/lessons/lesson-4/overlay-analysis/
+      - title: "Aggregating data"
+        url: /auto-gis/lessons/lesson-4/aggregating-data/
+      - title: "Simplifying geometries"
+        url: /auto-gis/lessons/lesson-4/simplifying-geometries/
+      - title: "Reclassifying data"
+        url: /auto-gis/lessons/lesson-4/reclassifying-data/
+      - title: "Exercise 4"
+        url: /auto-gis/lessons/lesson-4/exercise-4/
+  
+  - title: Lesson 5
+    children:
+      - title: "Overview"
+        url: /auto-gis/lessons/lesson-5/overview/
+      - title: "Static maps"
+        url: /auto-gis/lessons/lesson-5/static-maps/
+      - title: "Interactive maps"
+        url: /auto-gis/lessons/lesson-5/interactive-maps/
+      - title: "Exercise 5"
+        url: /auto-gis/lessons/lesson-5/exercise-5/
+  
+  - title: Lesson 6
+    children:
+      - title: "Overview"
+        url: /auto-gis/lessons/lesson-6/overview/
+      - title: "Retrieving data from OpenStreetMap"
+        url: /auto-gis/lessons/lesson-6/retrieving-data-openstreetmap/
+      - title: "Network analysis in Python"
+        url: /auto-gis/lessons/lesson-6/network-analysis-python/
+
+  - title: Final Assignment
+    children:
+      - title: "Final assignment"
+        url: /auto-gis/final-assignment/final-assignment/
+      - title: "Grading criteria for the final assignment"
+        url: /auto-gis/final-assignment/grading-criteria/
+      - title: "Final Assignment hints"
+        url: /auto-gis/final-assignment/hints/
+      - title: "Theme by the Executable Book Project"
+        url: /auto-gis/final-assignment/theme/

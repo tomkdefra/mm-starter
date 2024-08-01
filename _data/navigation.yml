@@ -11,8 +11,6 @@ main:
     url: /newsletter/
 
 learning-and-development:
-  - title: "Learning and Development"
-    url: /learning-and-development/
   - title: "Data Science Pathways"
     url: /learning-and-development/pathways/
   - title: "Platform Training"

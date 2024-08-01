@@ -12,7 +12,7 @@
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
         <ul class="visible-links">
-          {% if page.url contains '/learning-and-development/' %}
+          {% if page.permalink contains '/learning-and-development/' %}
             {%- for link in site.data.navigation.learning-and-development -%}
               <li class="masthead__menu-item">
                 <a href="{{ link.url | relative_url }}"

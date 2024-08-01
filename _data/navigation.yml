@@ -9,7 +9,6 @@ main:
     url: /about/
   - title: "Newsletter"
     url: /newsletter/
-
 learning-and-development:
   - title: "Data Science Pathways"
     url: /learning-and-development/pathways/

@@ -1,6 +1,13 @@
 ---
 title: "Learning and Development"
 permalink: /learning-and-development/
+nav_links:
+  - title: "Data Science Pathways"
+    url: "/learning-and-development/data-science-pathways/"
+  - title: "Platform Training"
+    url: "/learning-and-development/platform-training/"
+  - title: "DataCamp"
+    url: "/learning-and-development/datacamp/"
 ---
 
 Before enrolling on any further training, please ensure you have completed the necessary DASH environment and tool configuration 

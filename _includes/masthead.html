@@ -12,26 +12,30 @@
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
         <ul class="visible-links">
-          {% if page.permalink contains '/learning-and-development/' %}
-            {%- for link in site.data.navigation.learning-and-development -%}
+          <li>DEBUG: Page URL: {{ page.url }}</li>
+          <li>DEBUG: Permalink: {{ page.permalink }}</li>
+          {% if page.url contains '/learning-and-development/' or page.permalink contains '/learning-and-development/' %}
+              <li>DEBUG: Using learning-and-development navigation</li>
+              {%- for link in site.data.navigation.learning-and-development -%}
               <li class="masthead__menu-item">
-                <a href="{{ link.url | relative_url }}"
-                   {% if link.description %} title="{{ link.description }}"{% endif %}
-                   {% if link.target %} target="{{ link.target }}"{% endif %}>
+                  <a href="{{ link.url | relative_url }}"
+                      {% if link.description %} title="{{ link.description }}"{% endif %}
+                      {% if link.target %} target="{{ link.target }}"{% endif %}>
                   {{ link.title }}
-                </a>
+                  </a>
               </li>
-            {%- endfor -%}
+              {%- endfor -%}
           {% else %}
-            {%- for link in site.data.navigation.main -%}
+              <li>DEBUG: Using main navigation</li>
+              {%- for link in site.data.navigation.main -%}
               <li class="masthead__menu-item">
-                <a href="{{ link.url | relative_url }}"
-                   {% if link.description %} title="{{ link.description }}"{% endif %}
-                   {% if link.target %} target="{{ link.target }}"{% endif %}>
+                  <a href="{{ link.url | relative_url }}"
+                      {% if link.description %} title="{{ link.description }}"{% endif %}
+                      {% if link.target %} target="{{ link.target }}"{% endif %}>
                   {{ link.title }}
-                </a>
+                  </a>
               </li>
-            {%- endfor -%}
+              {%- endfor -%}
           {% endif %}
         </ul>
         {% if site.search == true %}

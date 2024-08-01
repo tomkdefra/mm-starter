@@ -1,3 +1,8 @@
+---
+title: "General information"
+permalink: /auto-gis/course-info/general-information/
+---
+
 # General information
 
 :::{admonition} Contact teaching at the University of Helsinki

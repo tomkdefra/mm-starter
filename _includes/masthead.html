@@ -13,19 +13,26 @@
         </a>
         <ul class="visible-links">
           {% if page.url contains '/learning-and-development/' %}
-            {%- assign nav_links = site.data.navigation['learning-and-development'] -%}
+            {%- for link in site.data.navigation.learning-and-development -%}
+              <li class="masthead__menu-item">
+                <a href="{{ link.url | relative_url }}"
+                   {% if link.description %} title="{{ link.description }}"{% endif %}
+                   {% if link.target %} target="{{ link.target }}"{% endif %}>
+                  {{ link.title }}
+                </a>
+              </li>
+            {%- endfor -%}
           {% else %}
-            {%- assign nav_links = site.data.navigation.main -%}
+            {%- for link in site.data.navigation.main -%}
+              <li class="masthead__menu-item">
+                <a href="{{ link.url | relative_url }}"
+                   {% if link.description %} title="{{ link.description }}"{% endif %}
+                   {% if link.target %} target="{{ link.target }}"{% endif %}>
+                  {{ link.title }}
+                </a>
+              </li>
+            {%- endfor -%}
           {% endif %}
-          {%- for link in nav_links -%}
-            <li class="masthead__menu-item">
-              <a href="{{ link.url | relative_url }}"
-                 {% if link.description %} title="{{ link.description }}"{% endif %}
-                 {% if link.target %} target="{{ link.target }}"{% endif %}>
-                {{ link.title }}
-              </a>
-            </li>
-          {%- endfor -%}
         </ul>
         {% if site.search == true %}
         <button class="search__toggle" type="button">

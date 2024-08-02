@@ -77,7 +77,7 @@ defaults:
 
     # geo-python
   - scope:
-      path: "_pathways\geo-python"
+      path: "_pathway-geo-python"
       type: pathways
     values:
       layout: single
@@ -86,7 +86,7 @@ defaults:
 
   # auto-gis
   - scope:
-      path: '_pathways\auto-gis'
+      path: '_pathway-auto-gis'
       type: pathways
     values:
       layout: single

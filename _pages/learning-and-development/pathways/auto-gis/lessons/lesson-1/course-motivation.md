@@ -1,8 +1,3 @@
----
-title: "Motivation behind this course"
-permalink: /auto-gis/lessons/lesson-1/course-motivation
----
-
 ## General overview
 
 Now that you are familiar with [the basics of Python

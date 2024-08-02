@@ -34,10 +34,6 @@ minimal_mistakes_skin: air
 
 # Outputting
 permalink: /:categories/:title/
-pagination:
-  enabled: true
-  per_page: 5
-  permalink: /page:num/
 
 include:
   - _pages

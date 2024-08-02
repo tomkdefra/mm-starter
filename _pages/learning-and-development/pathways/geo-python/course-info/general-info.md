@@ -1,6 +1,6 @@
 ---
 title: "Course info"
-permalink: /learning-and-development/pathways/geo-python/course-info/course-info/
+permalink: /learning-and-development/pathways/geo-python/course-info/general-info/
 ---
 
 

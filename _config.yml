@@ -74,6 +74,23 @@ defaults:
     values:
       layout: single
 
+    # geo-python
+  - scope:
+      path: "_pages\learning-and-development\pathways\geo-python"
+      type: pathways
+    values:
+      layout: single
+    sidebar:
+      nav: geo-python
+
+  # auto-gis
+  - scope:
+      path: "_pages\learning-and-development\pathways\auto-gis"
+      type: pathways
+    values:
+      layout: single
+    sidebar:
+      nav: auto-gis 
 
 category_archive:
   type: liquid

@@ -35,11 +35,6 @@ paginate: 5 # amount of posts to show
 paginate_path: /newsletter/page:num/
 timezone: BST
 
-include:
-  - _pages
-  - _pathway-geo-python
-  - _pathway-auto-gis
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -67,6 +62,11 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
 
+include:
+  - _pages
+  - _pathway-geo-python
+  - _pathway-auto-gis
+
 defaults:
   # _pages
   - scope:
@@ -82,7 +82,7 @@ defaults:
     values:
       layout: single
     sidebar:
-      nav: geo-python
+      nav: "geo-python"
 
   # _pathway-auto-gis
   - scope:
@@ -91,7 +91,7 @@ defaults:
     values:
       layout: single
     sidebar:
-      nav: auto-gis 
+      nav: "auto-gis"
 
 category_archive:
   type: liquid

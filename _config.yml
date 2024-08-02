@@ -81,8 +81,8 @@ defaults:
       type: pathways
     values:
       layout: single
-    sidebar:
-      nav: "geo-python"
+      sidebar:
+        nav: "geo-python"
 
   # _pathway-auto-gis
   - scope:
@@ -90,8 +90,8 @@ defaults:
       type: pathways
     values:
       layout: single
-    sidebar:
-      nav: "auto-gis"
+      sidebar:
+        nav: "auto-gis"
 
 category_archive:
   type: liquid

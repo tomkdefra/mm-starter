@@ -14,252 +14,252 @@ geo-python:
   - title: Course information
     children:
       - title: "General info"
-        url: /geo-python/course-info/general-info/
+        url: /learning-and-development/pathways/geo-python/course-info/general-info/
       - title: "Learning goals"
-        url: /geo-python/course-info/learning-goals/
+        url: /learning-and-development/pathways/geo-python/course-info/learning-goals/
       - title: "Grading"
-        url: /geo-python/course-info/grading/
+        url: /learning-and-development/pathways/geo-python/course-info/grading/
       - title: "Use of AI tools"
-        url: /geo-python/course-info/use-of-ai-tools/
+        url: /learning-and-development/pathways/geo-python/course-info/use-of-ai-tools/
       - title: "License and using our materials"
-        url: /geo-python/course-info/license-and-using-materials/
+        url: /learning-and-development/pathways/geo-python/course-info/license-and-using-materials/
       - title: "The Geo-Python team"
-        url: /geo-python/course-info/geo-python-team/
+        url: /learning-and-development/pathways/geo-python/course-info/geo-python-team/
   
   - title: Lesson 1
     children:
       - title: "Motivation for the course"
-        url: /geo-python/lessons/lesson-1/motivation-for-the-course/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-1/motivation-for-the-course/
       - title: "Lesson overview"
-        url: /geo-python/lessons/lesson-1/lesson-overview/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-1/lesson-overview/
       - title: "Course environment"
-        url: /geo-python/lessons/lesson-1/course-environment/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-1/course-environment/
       - title: "Communicating with Discord"
-        url: /geo-python/lessons/lesson-1/communicating-with-discord/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-1/communicating-with-discord/
       - title: "A taste of Python"
-        url: /geo-python/lessons/lesson-1/a-taste-of-python/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-1/a-taste-of-python/
       - title: "GCP 1 - Selecting 'good' variable names"
-        url: /geo-python/lessons/lesson-1/gcp-1-selecting-good-variable-names/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-1/gcp-1-selecting-good-variable-names/
       - title: "Exercise 1"
-        url: /geo-python/lessons/lesson-1/exercise-1/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-1/exercise-1/
   
   - title: Lesson 2
     children:
       - title: "Lesson overview"
-        url: /geo-python/lessons/lesson-2/lesson-overview/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-2/lesson-overview/
       - title: "Basic elements of Python"
-        url: /geo-python/lessons/lesson-2/basic-elements-of-python/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-2/basic-elements-of-python/
       - title: "Introduction to Version Control"
-        url: /geo-python/lessons/lesson-2/introduction-to-version-control/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-2/introduction-to-version-control/
       - title: "Meet Git"
-        url: /geo-python/lessons/lesson-2/meet-git/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-2/meet-git/
       - title: "Using Classroom for Github"
-        url: /geo-python/lessons/lesson-2/using-classroom-for-github/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-2/using-classroom-for-github/
       - title: "GCP 2 - Describing your code"
-        url: /geo-python/lessons/lesson-2/gcp-2-describing-your-code/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-2/gcp-2-describing-your-code/
       - title: "Why are we working in pairs?"
-        url: /geo-python/lessons/lesson-2/why-are-we-working-in-pairs/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-2/why-are-we-working-in-pairs/
       - title: "Exercise 2"
-        url: /geo-python/lessons/lesson-2/exercise-2/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-2/exercise-2/
   
   - title: Lesson 3
     children:
       - title: "Lesson overview"
-        url: /geo-python/lessons/lesson-3/lesson-overview/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-3/lesson-overview/
       - title: "for loops"
-        url: /geo-python/lessons/lesson-3/for-loops/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-3/for-loops/
       - title: "Conditional statements"
-        url: /geo-python/lessons/lesson-3/conditional-statements/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-3/conditional-statements/
       - title: "GCP 3 - Writing readable code"
-        url: /geo-python/lessons/lesson-3/gcp-3-writing-readable-code/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-3/gcp-3-writing-readable-code/
       - title: "Exercise 3"
-        url: /geo-python/lessons/lesson-3/exercise-3/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-3/exercise-3/
   
   - title: Lesson 4
     children:
       - title: "Lesson overview"
-        url: /geo-python/lessons/lesson-4/lesson-overview/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-4/lesson-overview/
       - title: "Functions"
-        url: /geo-python/lessons/lesson-4/functions/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-4/functions/
       - title: "AI and programming in Python"
-        url: /geo-python/lessons/lesson-4/ai-and-programming-in-python/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-4/ai-and-programming-in-python/
       - title: "Using script files"
-        url: /geo-python/lessons/lesson-4/using-script-files/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-4/using-script-files/
       - title: "Loading and using modules"
-        url: /geo-python/lessons/lesson-4/loading-and-using-modules/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-4/loading-and-using-modules/
       - title: "GCP 4 - Writing our scripts the 'right' way"
-        url: /geo-python/lessons/lesson-4/gcp-4-writing-our-scripts-the-right-way/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-4/gcp-4-writing-our-scripts-the-right-way/
       - title: "Exercise 4"
-        url: /geo-python/lessons/lesson-4/exercise-4/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-4/exercise-4/
   
   - title: Lesson 5
     children:
       - title: "Lesson overview"
-        url: /geo-python/lessons/lesson-5/lesson-overview/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-5/lesson-overview/
       - title: "What is pandas?"
-        url: /geo-python/lessons/lesson-5/what-is-pandas/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-5/what-is-pandas/
       - title: "Exploring data using pandas"
-        url: /geo-python/lessons/lesson-5/exploring-data-using-pandas/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-5/exploring-data-using-pandas/
       - title: "Processing data with pandas"
-        url: /geo-python/lessons/lesson-5/processing-data-with-pandas/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-5/processing-data-with-pandas/
       - title: "Exercise 5"
-        url: /geo-python/lessons/lesson-5/exercise-5/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-5/exercise-5/
   
   - title: Lesson 6
     children:
       - title: "Lesson overview"
-        url: /geo-python/lessons/lesson-6/lesson-overview/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-6/lesson-overview/
       - title: "Processing data with pandas II"
-        url: /geo-python/lessons/lesson-6/processing-data-with-pandas-ii/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-6/processing-data-with-pandas-ii/
       - title: "Dealing with errors"
-        url: /geo-python/lessons/lesson-6/dealing-with-errors/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-6/dealing-with-errors/
       - title: "GCP 5 - Using assertions"
-        url: /geo-python/lessons/lesson-6/gcp-5-using-assertions/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-6/gcp-5-using-assertions/
       - title: "Debugging your Python code"
-        url: /geo-python/lessons/lesson-6/debugging-your-python-code/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-6/debugging-your-python-code/
       - title: "Exercise 6"
-        url: /geo-python/lessons/lesson-6/exercise-6/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-6/exercise-6/
   
   - title: Lesson 7
     children:
       - title: "Lesson overview"
-        url: /geo-python/lessons/lesson-7/lesson-overview/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-7/lesson-overview/
       - title: "Plotting in Python"
-        url: /geo-python/lessons/lesson-7/plotting-in-python/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-7/plotting-in-python/
       - title: "Anatomy of a plot"
-        url: /geo-python/lessons/lesson-7/anatomy-of-a-plot/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-7/anatomy-of-a-plot/
       - title: "Basic plotting with pandas and Matplotlib"
-        url: /geo-python/lessons/lesson-7/basic-plotting-with-pandas-and-matplotlib/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-7/basic-plotting-with-pandas-and-matplotlib/
       - title: "More advanced plotting with pandas/Matplotlib"
-        url: /geo-python/lessons/lesson-7/more-advanced-plotting-with-pandas-matplotlib/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-7/more-advanced-plotting-with-pandas-matplotlib/
       - title: "Exercise 7"
-        url: /geo-python/lessons/lesson-7/exercise-7/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-7/exercise-7/
   
   - title: Final exercise
     children:
       - title: "Final exercise assignment"
-        url: /geo-python/final-exercise/final-exercise-assignment/
+        url: /learning-and-development/pathways/geo-python/final-exercise/final-exercise-assignment/
       - title: "Grading"
-        url: /geo-python/final-exercise/grading/
+        url: /learning-and-development/pathways/geo-python/final-exercise/grading/
   
   - title: Resources
     children:
       - title: "Glossary"
-        url: /geo-python/resources/glossary/
+        url: /learning-and-development/pathways/geo-python/resources/glossary/
       - title: "Installing Python"
-        url: /geo-python/resources/installing-python/
+        url: /learning-and-development/pathways/geo-python/resources/installing-python/
       - title: "Useful books and sites"
-        url: /geo-python/resources/useful-books-and-sites/
+        url: /learning-and-development/pathways/geo-python/resources/useful-books-and-sites/
 
 auto-gis:
   - title: Course information
     children:
       - title: "General information"
-        url: /auto-gis/course-info/general-information/
+        url: /learning-and-development/pathways/auto-gis/course-info/general-information/
       - title: "Course environment"
-        url: /auto-gis/course-info/course-environment/
+        url: /learning-and-development/pathways/auto-gis/course-info/course-environment/
       - title: "Grading"
-        url: /auto-gis/course-info/grading/
+        url: /learning-and-development/pathways/auto-gis/course-info/grading/
       - title: "Learning goals"
-        url: /auto-gis/course-info/learning-goals/
+        url: /learning-and-development/pathways/auto-gis/course-info/learning-goals/
       - title: "Installing Python and Python packages"
-        url: /auto-gis/course-info/installing-python-packages/
+        url: /learning-and-development/pathways/auto-gis/course-info/installing-python-packages/
       - title: "Create a Python GIS environment"
-        url: /auto-gis/course-info/create-python-gis-environment/
+        url: /learning-and-development/pathways/auto-gis/course-info/create-python-gis-environment/
       - title: "Use of AI tools"
-        url: /auto-gis/course-info/use-of-ai-tools/
+        url: /learning-and-development/pathways/auto-gis/course-info/use-of-ai-tools/
       - title: "Resources"
-        url: /auto-gis/course-info/resources/
+        url: /learning-and-development/pathways/auto-gis/course-info/resources/
       - title: "License and Terms of Use"
-        url: /auto-gis/course-info/license-terms/
+        url: /learning-and-development/pathways/auto-gis/course-info/license-terms/
     
   - title: Lesson 1
     children:
       - title: "Overview"
-        url: /auto-gis/lessons/lesson-1/overview/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-1/overview/
       - title: "Motivation behind this course"
-        url: /auto-gis/lessons/lesson-1/motivation/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-1/motivation/
       - title: "Shapely and geometry objects"
-        url: /auto-gis/lessons/lesson-1/shapely-geometry-objects/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-1/shapely-geometry-objects/
       - title: "Exercise 1"
-        url: /auto-gis/lessons/lesson-1/exercise-1/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-1/exercise-1/
   
   - title: Lesson 2
     children:
       - title: "Overview"
-        url: /auto-gis/lessons/lesson-2/overview/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-2/overview/
       - title: "Key concepts"
-        url: /auto-gis/lessons/lesson-2/key-concepts/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-2/key-concepts/
       - title: "Managing file paths"
-        url: /auto-gis/lessons/lesson-2/managing-file-paths/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-2/managing-file-paths/
       - title: "Vector Data I/O"
-        url: /auto-gis/lessons/lesson-2/vector-data-io/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-2/vector-data-io/
       - title: "Geopandas: an introduction"
-        url: /auto-gis/lessons/lesson-2/geopandas-introduction/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-2/geopandas-introduction/
       - title: "Map projections"
-        url: /auto-gis/lessons/lesson-2/map-projections/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-2/map-projections/
       - title: "Exercise 2"
-        url: /auto-gis/lessons/lesson-2/exercise-2/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-2/exercise-2/
   
   - title: Lesson 3
     children:
       - title: "Overview"
-        url: /auto-gis/lessons/lesson-3/overview/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-3/overview/
       - title: "Geocoding"
-        url: /auto-gis/lessons/lesson-3/geocoding/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-3/geocoding/
       - title: "Geocoding in geopandas"
-        url: /auto-gis/lessons/lesson-3/geocoding-in-geopandas/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-3/geocoding-in-geopandas/
       - title: "Point-in-polygon queries"
-        url: /auto-gis/lessons/lesson-3/point-in-polygon-queries/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-3/point-in-polygon-queries/
       - title: "Intersect"
-        url: /auto-gis/lessons/lesson-3/intersect/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-3/intersect/
       - title: "Spatial join"
-        url: /auto-gis/lessons/lesson-3/spatial-join/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-3/spatial-join/
       - title: "Exercise 3"
-        url: /auto-gis/lessons/lesson-3/exercise-3/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-3/exercise-3/
   
   - title: Lesson 4
     children:
       - title: "Overview"
-        url: /auto-gis/lessons/lesson-4/overview/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-4/overview/
       - title: "Overlay analysis"
-        url: /auto-gis/lessons/lesson-4/overlay-analysis/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-4/overlay-analysis/
       - title: "Aggregating data"
-        url: /auto-gis/lessons/lesson-4/aggregating-data/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-4/aggregating-data/
       - title: "Simplifying geometries"
-        url: /auto-gis/lessons/lesson-4/simplifying-geometries/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-4/simplifying-geometries/
       - title: "Reclassifying data"
-        url: /auto-gis/lessons/lesson-4/reclassifying-data/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-4/reclassifying-data/
       - title: "Exercise 4"
-        url: /auto-gis/lessons/lesson-4/exercise-4/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-4/exercise-4/
   
   - title: Lesson 5
     children:
       - title: "Overview"
-        url: /auto-gis/lessons/lesson-5/overview/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-5/overview/
       - title: "Static maps"
-        url: /auto-gis/lessons/lesson-5/static-maps/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-5/static-maps/
       - title: "Interactive maps"
-        url: /auto-gis/lessons/lesson-5/interactive-maps/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-5/interactive-maps/
       - title: "Exercise 5"
-        url: /auto-gis/lessons/lesson-5/exercise-5/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-5/exercise-5/
   
   - title: Lesson 6
     children:
       - title: "Overview"
-        url: /auto-gis/lessons/lesson-6/overview/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-6/overview/
       - title: "Retrieving data from OpenStreetMap"
-        url: /auto-gis/lessons/lesson-6/retrieving-data-openstreetmap/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-6/retrieving-data-openstreetmap/
       - title: "Network analysis in Python"
-        url: /auto-gis/lessons/lesson-6/network-analysis-python/
+        url: /learning-and-development/pathways/auto-gis/lessons/lesson-6/network-analysis-python/
 
   - title: Final Assignment
     children:
       - title: "Final assignment"
-        url: /auto-gis/final-assignment/final-assignment/
+        url: /learning-and-development/pathways/auto-gis/final-assignment/final-assignment/
       - title: "Grading criteria for the final assignment"
-        url: /auto-gis/final-assignment/grading-criteria/
+        url: /learning-and-development/pathways/auto-gis/final-assignment/grading-criteria/
       - title: "Final Assignment hints"
-        url: /auto-gis/final-assignment/hints/
+        url: /learning-and-development/pathways/auto-gis/final-assignment/hints/
       - title: "Theme by the Executable Book Project"
-        url: /auto-gis/final-assignment/theme/
+        url: /learning-and-development/pathways/auto-gis/final-assignment/theme/

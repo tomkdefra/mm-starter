@@ -75,7 +75,7 @@ defaults:
     values:
       layout: single
 
-    # geo-python
+    # _pathway-geo-python
   - scope:
       path: "_pathway-geo-python"
       type: pathways
@@ -84,9 +84,9 @@ defaults:
     sidebar:
       nav: geo-python
 
-  # auto-gis
+  # _pathway-auto-gis
   - scope:
-      path: '_pathway-auto-gis'
+      path: "_pathway-auto-gis"
       type: pathways
     values:
       layout: single

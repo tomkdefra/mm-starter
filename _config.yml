@@ -37,8 +37,9 @@ timezone: BST
 
 include:
   - _pages
-  - _includes
-  
+  - _learning-and-development
+  - _pathways
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -76,7 +77,7 @@ defaults:
 
     # geo-python
   - scope:
-      path: '_pages\learning-and-development\pathways\geo-python'
+      path: "_pathways\geo-python"
       type: pathways
     values:
       layout: single
@@ -85,7 +86,7 @@ defaults:
 
   # auto-gis
   - scope:
-      path: '_pages\learning-and-development\pathways\auto-gis'
+      path: '_pathways\auto-gis'
       type: pathways
     values:
       layout: single

@@ -1,3 +1,9 @@
+---
+title: "GitHub classroom"
+permalink: /learning-and-development/pathways/geo-python/lessons/L2/GitHub-classroom/
+---
+
+
 # Using Classroom for Github
 
 As you have seen last week we will be using [Classroom for

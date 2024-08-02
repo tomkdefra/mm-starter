@@ -1,15 +1,8 @@
 ---
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.14.1
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
+title: "Spatial join"
+permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-3/spatial-join/
 ---
+
 
 # Spatial join
 
@@ -68,75 +61,6 @@ spatial predicaments and join-types with explanatory drawings.
 :::
 
 
----
-
-
-## Load input data
-
-As a practical example, let’s find the population density at each of the
-addresses from [earlier in this lesson](geocoding-in-geopandas), by combining
-the data set with data from a population grid.
-
-The population grid data is available from [HSY, the Helsinki Region
-Environmental
-Services](https://www.hsy.fi/en/environmental-information/open-data/), for
-instance via their WFS endpoint.
-
-```{code-cell}
-import pathlib 
-NOTEBOOK_PATH = pathlib.Path().resolve()
-DATA_DIRECTORY = NOTEBOOK_PATH / "data"
-```
-
-
-```{code}
-import geopandas
-
-addresses = geopandas.read_file(DATA_DIRECTORY / "addresses.gpkg")
-
-population_grid = geopandas.read_file(
-    (
-        "https://kartta.hsy.fi/geoserver/wfs"
-        "?service=wfs"
-        "&version=2.0.0"
-        "&request=GetFeature"
-        "&typeName=asuminen_ja_maankaytto:Vaestotietoruudukko_2020"
-        "&srsName=EPSG:3879"
-    ),
-)
-population_grid.crs = "EPSG:3879"  # for WFS data, the CRS needs to be specified manually
-```
-
-```{code-cell}
-:tags: ["remove-input", "remove-output"]
-
-import geopandas
-
-addresses = geopandas.read_file(DATA_DIRECTORY / "addresses.gpkg")
-
-population_grid = geopandas.read_file(
-    "https://avoidatastr.blob.core.windows.net/avoindata/AvoinData/"
-    "6_Asuminen/Vaestotietoruudukko/Shp/Vaestotietoruudukko_2021_shp.zip"
-)
-population_grid = (
-    population_grid[["ASUKKAITA", "geometry"]]
-    .rename(columns={"ASUKKAITA": "asukkaita"})
-)
-```
-
-:::{admonition} Concatenating long strings
-:class: note
-
-In the WFS address above, we split a long string across multiple lines. Strings
-between parentheses are automatically concatenated (joint together), even
-without any operator (e.g., `+`).
-
-For the sake of clarity, the example has an additional set of parentheses, but
-already the parentheses of the method call would suffice.
-:::
-
-
----
 
 
 ```{code-cell}
@@ -182,54 +106,6 @@ guidelines](https://peps.python.org/pep-0008/#should-a-line-break-before-or-afte
 :::
 
 
----
-
-
-## Join input layers
-
-
-Now we are ready to perform the spatial join between the two layers.
-Remember: the aim is to find the population density around each of the address
-points. We want to attach population density information from the
-`population_grid` polygon layer to the `addresses` point layer, depending on
-whether the **point is within the polygon**. During this operation, we want to
-**retain the geometries of the point layer**.
-
-Before we can go ahead with the join operation, we have to make sure the two
-layers are in the same cartographic reference system:
-
-```{code-cell}
-:tags: ["raises-exception"]
-
-assert addresses.crs == population_grid.crs, "CRS are not identical"
-```
-
-They do not share the same CRS, let’s reproject one of them:
-
-```{code-cell}
-population_grid = population_grid.to_crs(addresses.crs)
-```
-
-Now we are ready to carry out the actual spatial join using the
-[`geopandas.GeoDataFrame.sjoin()`](https://geopandas.org/en/stable/docs/reference/api/geopandas.GeoDataFrame.sjoin.html)
-method. Remember, we want to use a *within* geometric predicate and retain the
-point layer’s geometries (in the example below the *left* data frame).
-
-```{code-cell}
-addresses_with_population_data = addresses.sjoin(
-    population_grid,
-    how="left",
-    predicate="within"
-)
-addresses_with_population_data.head()
-```
-
-
-That looks great! We now have an address data set with population density
-information attached to it. 
-
-
----
 
 
 As a final task, let’s look at how to plot data using a *graduated*
@@ -250,26 +126,6 @@ ax.set_title("Population density around address points")
 ```
 
 
----
-
-
-We can apply the same arguments to plot a population density map using the
-entire `population_grid` data set:
-
-```{code-cell}
-ax = population_grid.plot(
-    figsize=(10, 10),
-    column="population_density",
-    cmap="Reds",
-    scheme="quantiles",
-    legend=True
-)
-ax.set_title("Population density in the Helsinki metropolitan area")
-
-```
-
-
----
 
 
 Finally, remember to save the output data frame to a file. We can append it to

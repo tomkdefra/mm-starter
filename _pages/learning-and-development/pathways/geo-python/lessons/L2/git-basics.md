@@ -1,3 +1,9 @@
+---
+title: "Git basics"
+permalink: /learning-and-development/pathways/geo-python/lessons/L2/git-basics/
+---
+
+
 # Meet Git
 
 This tutorial covers the very basics of version control using Git and

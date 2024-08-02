@@ -1,3 +1,9 @@
+---
+title: "Pandas overview"
+permalink: /learning-and-development/pathways/geo-python/lessons/L5/pandas-overview/
+---
+
+
 # What is pandas?
 
 <figure class="dark-light">

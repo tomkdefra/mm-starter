@@ -1,3 +1,9 @@
+---
+title: "Plot anatomy"
+permalink: /learning-and-development/pathways/geo-python/lessons/L7/plot-anatomy/
+---
+
+
 # Anatomy of a plot
 
 Before starting to visualize our data on a plot our data we need to

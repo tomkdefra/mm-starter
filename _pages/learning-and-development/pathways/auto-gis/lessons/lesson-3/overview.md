@@ -1,14 +1,8 @@
 ---
-kernelspec:
-  name: python3
-  display_name: python3
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: '0.13'
-    jupytext_version: 1.14.1
+title: "Overview"
+permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-3/overview/
 ---
+
 
 # Overview
 

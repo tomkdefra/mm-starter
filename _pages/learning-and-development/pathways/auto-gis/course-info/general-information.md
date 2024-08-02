@@ -1,3 +1,9 @@
+---
+title: "General information"
+permalink: /learning-and-development/pathways/auto-gis/course-info/general-information/
+---
+
+
 ## Course web pages:
 
 - *Automating GIS processes* (period Ⅱ)

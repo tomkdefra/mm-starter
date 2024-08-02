@@ -1,3 +1,9 @@
+---
+title: "Midterm feedback"
+permalink: /learning-and-development/pathways/geo-python/lessons/L5/midterm-feedback/
+---
+
+
 # Summary of mid-term course feedback
 
 ## Is the pace of the lessons too fast, too slow, or about right?

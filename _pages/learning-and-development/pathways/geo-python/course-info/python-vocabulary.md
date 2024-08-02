@@ -1,3 +1,9 @@
+---
+title: "Python vocabulary"
+permalink: /learning-and-development/pathways/geo-python/course-info/python-vocabulary/
+---
+
+
 # Glossary
 
 ## Python vocabulary

@@ -1,3 +1,9 @@
+---
+title: "Create python gis environment"
+permalink: /learning-and-development/pathways/auto-gis/course-info/create-python-gis-environment/
+---
+
+
 ## Python environments
 
 Especially on Windows, installing Python packages can sometimes become tricky,

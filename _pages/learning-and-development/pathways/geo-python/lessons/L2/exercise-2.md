@@ -1,3 +1,9 @@
+---
+title: "Exercise 2"
+permalink: /learning-and-development/pathways/geo-python/lessons/L2/exercise-2/
+---
+
+
 # Exercise 2
 
 :::: note

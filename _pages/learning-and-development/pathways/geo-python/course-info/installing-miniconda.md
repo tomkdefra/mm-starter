@@ -1,3 +1,9 @@
+---
+title: "Installing miniconda"
+permalink: /learning-and-development/pathways/geo-python/course-info/installing-miniconda/
+---
+
+
 # Installing Python
 
 In this course we try to provide cloud computing resources that do not

@@ -1,15 +1,8 @@
 ---
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.14.1
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
+title: "Network analysis"
+permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-6/network-analysis/
 ---
+
 
 # Network analysis in Python
 
@@ -189,67 +182,6 @@ nodes, edges = osmnx.graph_to_gdfs(graph)
 nodes.crs
 ```
 
----
-
-
-## Analysing network properties
-
-Now that we have prepared a routable network graph, we can turn to the more
-analytical features of OSMnx, and extract information about the network.
-To compute basic network characteristics, use
-[`osmnx.basic_stats()`](https://osmnx.readthedocs.io/en/stable/osmnx.html#osmnx.stats.basic_stats):
-
-```{code-cell}
-# Calculate network statistics
-osmnx.basic_stats(graph)
-```
-
-This does not yet yield all interesting characteristics of our network, as
-OSMnx does not automatically take the area covered by the network into
-consideration. We can do that manually, by, first, delineating the [complex
-hull](https://en.wikipedia.org/wiki/Convex_hull) of the network (of an ’unary’
-union of all its features), and then, second, computing the area of this hull.
-
-```{code-cell}
-convex_hull = edges.unary_union.convex_hull
-convex_hull
-```
-
-```{code-cell}
-stats = osmnx.basic_stats(graph, area=convex_hull.area)
-stats
-```
-
-```{code-cell}
-:tags: [remove-input, remove-output]
-
-import math
-import myst_nb
-
-myst_nb.glue("node_density_km", round(stats["node_density_km"], 1))
-myst_nb.glue("edge_length_total", math.floor(stats["edge_length_total"] / 1000))
-```
-
-As we can see, now we have a lot of information about our street network that
-can be used to understand its structure. We can for example see that the average
-node density in our network is {glue:}`node_density_km`&nbsp;nodes/km and that
-the total edge length of our network is more than
-{glue:}`edge_length_total`&nbsp;kilometers.
-
-
-:::{admonition} Centrality measures
-:class: note
-
-In earlier years, this course also discussed [degree
-centrality](https://en.wikipedia.org/wiki/Centrality). Computing network
-centrality has changed in OSMnx: going in-depth would be beyond the scope of
-this course. Please see the [according OSMnx
-notebook](https://github.com/gboeing/osmnx-examples/blob/main/notebooks/06-stats-indicators-centrality.ipynb)
-for an example.
-:::
-
-
----
 
 
 ## Shortest path analysis

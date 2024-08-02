@@ -1,15 +1,8 @@
 ---
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.14.1
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
+title: "Geocoding in geopandas"
+permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-3/geocoding-in-geopandas/
 ---
+
 
 # Geocoding in geopandas
 
@@ -141,23 +134,3 @@ If you would do the join the other way around, i.e. `addresses.join(geocoded_add
 :::
 
 
----
-
-
-It’s now easy to save the new data set as a geospatial file, for instance, in
-*GeoPackage* format:
-
-```{code-cell}
-:tags: ["remove-input", "remove-output"]
-
-# delete a possibly existing file, as it creates
-# troubles in case sphinx is run repeatedly
-try:
-    (DATA_DIRECTORY / "addresses.gpkg").unlink()
-except FileNotFoundError:
-    pass
-```
-
-```{code-cell}
-geocoded_addresses.to_file(DATA_DIRECTORY / "addresses.gpkg")
-```

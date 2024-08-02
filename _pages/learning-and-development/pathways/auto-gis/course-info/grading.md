@@ -1,3 +1,9 @@
+---
+title: "Grading"
+permalink: /learning-and-development/pathways/auto-gis/course-info/grading/
+---
+
+
 # Grading
 
 Course grades will be given using the standard six-level grading scale from 0 to 5.

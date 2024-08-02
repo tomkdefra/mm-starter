@@ -1,3 +1,9 @@
+---
+title: "Learning goals"
+permalink: /learning-and-development/pathways/geo-python/course-info/learning-goals/
+---
+
+
 # Learning goals
 
 During the Geo-Python course you will learn the basics of programming

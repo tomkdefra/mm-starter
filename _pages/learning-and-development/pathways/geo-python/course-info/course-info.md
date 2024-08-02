@@ -1,3 +1,9 @@
+---
+title: "Course info"
+permalink: /learning-and-development/pathways/geo-python/course-info/course-info/
+---
+
+
 # General info
 
 This is a joint course for geography and geology students at the

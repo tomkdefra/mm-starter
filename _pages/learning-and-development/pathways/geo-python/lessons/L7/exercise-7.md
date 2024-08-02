@@ -1,3 +1,9 @@
+---
+title: "Exercise 7"
+permalink: /learning-and-development/pathways/geo-python/lessons/L7/exercise-7/
+---
+
+
 # Exercise 7
 
 :::: note

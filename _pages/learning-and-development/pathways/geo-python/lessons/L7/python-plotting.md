@@ -1,3 +1,9 @@
+---
+title: "Python plotting"
+permalink: /learning-and-development/pathways/geo-python/lessons/L7/python-plotting/
+---
+
+
 # Plotting in Python
 
 <figure class="dark-lightalign-center">

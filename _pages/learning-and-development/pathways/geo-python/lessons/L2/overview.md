@@ -1,3 +1,9 @@
+---
+title: "Overview"
+permalink: /learning-and-development/pathways/geo-python/lessons/L2/overview/
+---
+
+
 # Lesson overview
 
 During the second week we will dive into Python and learn some basic

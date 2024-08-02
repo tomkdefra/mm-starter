@@ -1,3 +1,9 @@
+---
+title: "Geocoding"
+permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-3/geocoding/
+---
+
+
 # Geocoding
 
 ## Overview of Geocoders

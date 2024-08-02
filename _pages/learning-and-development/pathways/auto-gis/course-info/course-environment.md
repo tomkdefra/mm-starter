@@ -1,3 +1,9 @@
+---
+title: "Course environment"
+permalink: /learning-and-development/pathways/auto-gis/course-info/course-environment/
+---
+
+
 During this course, we use a set of tools that help make learning easier:
 We will use:
 

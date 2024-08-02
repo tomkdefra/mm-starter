@@ -1,3 +1,9 @@
+---
+title: "Installing anacondas"
+permalink: /learning-and-development/pathways/geo-python/course-info/installing-anacondas/
+---
+
+
 # Installing Python
 
 **It is possible to do programming with Python on your own computer**,

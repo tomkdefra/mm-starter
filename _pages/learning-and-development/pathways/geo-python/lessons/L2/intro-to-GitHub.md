@@ -1,3 +1,9 @@
+---
+title: "Intro to GitHub"
+permalink: /learning-and-development/pathways/geo-python/lessons/L2/intro-to-GitHub/
+---
+
+
 # Introduction to Version Control
 
 ## Sources

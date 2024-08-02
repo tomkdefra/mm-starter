@@ -1,3 +1,9 @@
+---
+title: "License"
+permalink: /learning-and-development/pathways/auto-gis/course-info/license/
+---
+
+
 # License and Terms of Use
 
 We are hopeful that the material we provide here is helpful to others. In this

@@ -1,3 +1,9 @@
+---
+title: "Exercise 1"
+permalink: /learning-and-development/pathways/geo-python/lessons/L1/exercise-1/
+---
+
+
 # Exercise 1
 
 ::: admonition

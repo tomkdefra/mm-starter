@@ -1,3 +1,9 @@
+---
+title: "Discord usage"
+permalink: /learning-and-development/pathways/geo-python/lessons/L1/discord-usage/
+---
+
+
 Communicating with Discord ========================
 
 <figure class="dark-light">

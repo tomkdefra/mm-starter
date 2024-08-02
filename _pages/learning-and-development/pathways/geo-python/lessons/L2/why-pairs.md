@@ -1,3 +1,9 @@
+---
+title: "Why pairs"
+permalink: /learning-and-development/pathways/geo-python/lessons/L2/why-pairs/
+---
+
+
 # Why are we working in pairs?
 
 For Exercises 2 and beyond, you will be working with a partner as a

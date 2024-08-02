@@ -1,3 +1,9 @@
+---
+title: "Motivation"
+permalink: /learning-and-development/pathways/geo-python/lessons/L1/motivation/
+---
+
+
 # Motivation for the course
 
 The main part of the first half of this course is to learn to program in

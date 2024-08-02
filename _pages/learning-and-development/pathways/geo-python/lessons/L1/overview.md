@@ -1,3 +1,9 @@
+---
+title: "Overview"
+permalink: /learning-and-development/pathways/geo-python/lessons/L1/overview/
+---
+
+
 # Lesson overview
 
 Today we will have our first taste of programming in Python. In order to

@@ -1,3 +1,9 @@
+---
+title: "Resources"
+permalink: /learning-and-development/pathways/auto-gis/course-info/resources/
+---
+
+
 # Resources
 
 Of course, this course can not cover everything, and it would be presumptous to

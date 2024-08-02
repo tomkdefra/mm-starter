@@ -1,3 +1,9 @@
+---
+title: "Slack usage"
+permalink: /learning-and-development/pathways/geo-python/lessons/L1/slack-usage/
+---
+
+
 # Communicating with Slack
 
 ![](img/Slack-logo.png){width="150px"}

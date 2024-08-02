@@ -1,3 +1,9 @@
+---
+title: "Final assignment"
+permalink: /learning-and-development/pathways/auto-gis/final-assignment/final-assignment/
+---
+
+
 # Final assignment
 
 :::{admonition} Start your assignment

@@ -1,3 +1,9 @@
+---
+title: "Installing python"
+permalink: /learning-and-development/pathways/auto-gis/course-info/installing-python/
+---
+
+
 # Installing Python and Python packages
 
 :::{admonition} Do I need to install anything?

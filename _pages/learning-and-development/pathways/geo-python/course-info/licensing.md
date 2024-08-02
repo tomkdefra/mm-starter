@@ -1,3 +1,9 @@
+---
+title: "Licensing"
+permalink: /learning-and-development/pathways/geo-python/course-info/licensing/
+---
+
+
 # License and using our materials
 
 It is our hope that the materials provided here will be helpful for

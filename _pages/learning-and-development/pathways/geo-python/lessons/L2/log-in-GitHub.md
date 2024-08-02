@@ -1,3 +1,9 @@
+---
+title: "Log in GitHub"
+permalink: /learning-and-development/pathways/geo-python/lessons/L2/log-in-GitHub/
+---
+
+
 # Logging into GitHub
 
 If you\'re reading this, you have presumably found your way to GitHub,

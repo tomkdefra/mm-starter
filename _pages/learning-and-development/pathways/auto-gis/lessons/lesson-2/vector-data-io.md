@@ -1,15 +1,8 @@
 ---
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.14.0
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
+title: "Vector data io"
+permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-2/vector-data-io/
 ---
+
 
 # Vector Data I/O
 
@@ -34,26 +27,6 @@ fiona’s capabilities, and then import and export data using
 [geopandas](https://geopandas.org/), which uses fiona under its hood.
 
 
----
-
-
-:::{admonition} Defining a data directory constant
-:class: note
-
-To make it easier to manage the paths of input and output data files, it is a
-good habit to [define a constant pointing to the data
-directory](managing-file-paths) at the top of a notebook:
-
-:::
-
-```{code-cell}
-import pathlib 
-NOTEBOOK_PATH = pathlib.Path().resolve()
-DATA_DIRECTORY = NOTEBOOK_PATH / "data"
-```
-
-
----
 
 
 ## File formats

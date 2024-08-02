@@ -1,3 +1,9 @@
+---
+title: "Resources"
+permalink: /learning-and-development/pathways/geo-python/course-info/resources/
+---
+
+
 # Useful books and sites
 
 In addition to our course, there are countless of excellent books,

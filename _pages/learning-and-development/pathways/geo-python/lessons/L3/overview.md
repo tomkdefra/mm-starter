@@ -1,3 +1,9 @@
+---
+title: "Overview"
+permalink: /learning-and-development/pathways/geo-python/lessons/L3/overview/
+---
+
+
 # Lesson overview
 
 This week we will focus on repeating tasks and making decisions in

@@ -1,3 +1,9 @@
+---
+title: "Final assignment grading"
+permalink: /learning-and-development/pathways/auto-gis/final-assignment/final-assignment-grading/
+---
+
+
 # Grading criteria for the final assignment
 
 **The grading is based on a typical 0-5 scale.**

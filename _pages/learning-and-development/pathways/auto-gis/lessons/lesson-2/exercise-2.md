@@ -1,13 +1,6 @@
 ---
-kernelspec:
-  name: python3
-  display_name: python3
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: '0.13'
-    jupytext_version: 1.14.1
+title: "Exercise 2"
+permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-2/exercise-2/
 ---
 
 
@@ -186,11 +179,3 @@ new_geodataframe = geopandas.GeoDataFrame(data, crs="EPSG:4326")
 new_geodataframe
 ```
 
----
-
-:::{note}
-These two approaches result in identical `GeoDataFrame`s. Sometimes, one
-technique is more convenient than the other. You should always evaluate
-different ways of solving a problem, and find the most appropriate and efficient
-solution (there is **always** more than one possible solution).
-:::

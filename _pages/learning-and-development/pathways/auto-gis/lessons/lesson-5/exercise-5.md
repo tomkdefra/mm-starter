@@ -1,13 +1,6 @@
 ---
-kernelspec:
-  name: python3
-  display_name: python3
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: '0.13'
-    jupytext_version: 1.14.1
+title: "Exercise 5"
+permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-5/exercise-5/
 ---
 
 

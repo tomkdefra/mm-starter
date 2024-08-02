@@ -1,9 +1,10 @@
 ---
-title: "Automating GIS Processes {{year}}"
-permalink: /learning-and-development/pathways/auto-gis
+title: "Auto gis"
+permalink: /learning-and-development/pathways/auto-gis/
 sidebar:
   nav: "auto-gis"
 ---
+
 
 **Welcome to the *Automating GIS processes* course {{year}}!** Through interactive
 lessons and hands-on exercises, this course introduces you to geographic data

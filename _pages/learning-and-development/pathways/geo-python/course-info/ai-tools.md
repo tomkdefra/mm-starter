@@ -1,3 +1,9 @@
+---
+title: "Ai tools"
+permalink: /learning-and-development/pathways/geo-python/course-info/ai-tools/
+---
+
+
 # Use of AI tools
 
 Artificial intelligence (AI)-based tools using large language models

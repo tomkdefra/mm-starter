@@ -1,3 +1,9 @@
+---
+title: "Theteam"
+permalink: /learning-and-development/pathways/geo-python/course-info/theteam/
+---
+
+
 # The Geo-Python team
 
 The Geo-Python course has been produced by a team of teachers, content

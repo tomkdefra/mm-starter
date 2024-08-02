@@ -1,3 +1,9 @@
+---
+title: "Grading"
+permalink: /learning-and-development/pathways/geo-python/course-info/grading/
+---
+
+
 # Grading
 
 ## General grading breakdown

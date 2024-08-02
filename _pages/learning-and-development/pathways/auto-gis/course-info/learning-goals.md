@@ -1,3 +1,9 @@
+---
+title: "Learning goals"
+permalink: /learning-and-development/pathways/auto-gis/course-info/learning-goals/
+---
+
+
 # Learning goals
 
 Below you find the *intended learning outcomes* after each study week. Please

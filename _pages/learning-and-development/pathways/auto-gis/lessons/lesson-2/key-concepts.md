@@ -1,3 +1,9 @@
+---
+title: "Key concepts"
+permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-2/key-concepts/
+---
+
+
 # Key concepts
 
 :::{admonition} **Check your understanding**

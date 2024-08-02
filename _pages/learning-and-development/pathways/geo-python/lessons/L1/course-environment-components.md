@@ -1,3 +1,9 @@
+---
+title: "Course environment components"
+permalink: /learning-and-development/pathways/geo-python/lessons/L1/course-environment-components/
+---
+
+
 # Course environment
 
 During this course, we will use different tools and applications for

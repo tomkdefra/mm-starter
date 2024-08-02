@@ -1,3 +1,9 @@
+---
+title: "Overview"
+permalink: /learning-and-development/pathways/geo-python/lessons/L6/overview/
+---
+
+
 # Lesson overview
 
 This week we will continue to work with

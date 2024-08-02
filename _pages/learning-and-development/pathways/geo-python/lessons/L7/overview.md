@@ -1,3 +1,9 @@
+---
+title: "Overview"
+permalink: /learning-and-development/pathways/geo-python/lessons/L7/overview/
+---
+
+
 # Lesson overview
 
 During this week, we will introduce you to data visualization and some

@@ -1,3 +1,9 @@
+---
+title: "Course motivation"
+permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-1/course-motivation/
+---
+
+
 ## General overview
 
 Now that you are familiar with [the basics of Python

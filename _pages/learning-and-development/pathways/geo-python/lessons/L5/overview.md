@@ -1,3 +1,9 @@
+---
+title: "Overview"
+permalink: /learning-and-development/pathways/geo-python/lessons/L5/overview/
+---
+
+
 # Lesson overview
 
 In this lesson we will learn the basics of reading and writing data

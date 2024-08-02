@@ -37,8 +37,8 @@ timezone: BST
 
 include:
   - _pages
-  - _learning-and-development
-  - _pathways
+  - _pathway-geo-python
+  - _pathway-auto-gis
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

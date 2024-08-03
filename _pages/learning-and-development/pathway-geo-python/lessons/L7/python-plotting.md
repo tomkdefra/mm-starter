@@ -1,6 +1,8 @@
 ---
 title: "Python plotting"
 permalink: /learning-and-development/pathways/geo-python/lessons/L7/python-plotting/
+sidebar:
+  nav: "geo-python"
 ---
 
 

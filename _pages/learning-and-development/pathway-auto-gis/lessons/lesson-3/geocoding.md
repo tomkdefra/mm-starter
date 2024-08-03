@@ -1,6 +1,8 @@
 ---
 title: "Geocoding"
 permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-3/geocoding/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

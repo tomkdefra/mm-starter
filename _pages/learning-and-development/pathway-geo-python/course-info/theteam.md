@@ -1,6 +1,8 @@
 ---
 title: "Theteam"
 permalink: /learning-and-development/pathways/geo-python/course-info/theteam/
+sidebar:
+  nav: "geo-python"
 ---
 
 

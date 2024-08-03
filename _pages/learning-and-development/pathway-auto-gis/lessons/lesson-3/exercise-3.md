@@ -1,6 +1,8 @@
 ---
 title: "Exercise 3"
 permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-3/exercise-3/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

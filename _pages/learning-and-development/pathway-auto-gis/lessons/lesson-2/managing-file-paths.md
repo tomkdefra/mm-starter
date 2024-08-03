@@ -1,6 +1,8 @@
 ---
 title: "Managing file paths"
 permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-2/managing-file-paths/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

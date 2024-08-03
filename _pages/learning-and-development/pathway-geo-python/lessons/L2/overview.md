@@ -1,6 +1,8 @@
 ---
 title: "Overview"
 permalink: /learning-and-development/pathways/geo-python/lessons/L2/overview/
+sidebar:
+  nav: "geo-python"
 ---
 
 

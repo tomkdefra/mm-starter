@@ -1,6 +1,8 @@
 ---
 title: "Licensing"
 permalink: /learning-and-development/pathways/geo-python/course-info/licensing/
+sidebar:
+  nav: "geo-python"
 ---
 
 

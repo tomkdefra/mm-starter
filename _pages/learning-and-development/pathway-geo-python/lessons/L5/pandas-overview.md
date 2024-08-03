@@ -1,6 +1,8 @@
 ---
 title: "Pandas overview"
 permalink: /learning-and-development/pathways/geo-python/lessons/L5/pandas-overview/
+sidebar:
+  nav: "geo-python"
 ---
 
 

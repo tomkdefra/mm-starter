@@ -1,6 +1,8 @@
 ---
 title: "License"
 permalink: /learning-and-development/pathways/auto-gis/course-info/license/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

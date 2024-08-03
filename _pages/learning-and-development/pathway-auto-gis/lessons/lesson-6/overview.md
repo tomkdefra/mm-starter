@@ -1,6 +1,8 @@
 ---
 title: "Overview"
 permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-6/overview/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

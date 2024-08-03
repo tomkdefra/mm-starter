@@ -1,6 +1,8 @@
 ---
 title: "Installing miniconda"
 permalink: /learning-and-development/pathways/geo-python/course-info/installing-miniconda/
+sidebar:
+  nav: "geo-python"
 ---
 
 

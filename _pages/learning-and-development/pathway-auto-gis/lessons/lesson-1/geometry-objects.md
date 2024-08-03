@@ -1,6 +1,8 @@
 ---
 title: "Geometry objects"
 permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-1/geometry-objects/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

@@ -72,22 +72,6 @@ defaults:
       type: pages
     values:
       layout: single
-  # _pages/learning-and-development/pathways/geo-python
-  - scope:
-      path: "_pages/learning-and-development/pathways/geo-python"
-      type: pages
-    values:
-      layout: single
-      sidebar:
-        nav: "geo-python"
-  # _pages/learning-and-development/pathways/auto-gis
-  - scope:
-      path: "_pages/learning-and-development/pathways/auto-gis"
-      type: pages
-    values:
-      layout: single
-      sidebar:
-        nav: "auto-gis"
 
 category_archive:
   type: liquid

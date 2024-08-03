@@ -1,6 +1,8 @@
 ---
 title: "Network analysis"
 permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-6/network-analysis/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

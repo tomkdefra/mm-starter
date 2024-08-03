@@ -1,6 +1,8 @@
 ---
 title: "Create python gis environment"
 permalink: /learning-and-development/pathways/auto-gis/course-info/create-python-gis-environment/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

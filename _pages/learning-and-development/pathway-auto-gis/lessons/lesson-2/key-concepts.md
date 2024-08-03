@@ -1,6 +1,8 @@
 ---
 title: "Key concepts"
 permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-2/key-concepts/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

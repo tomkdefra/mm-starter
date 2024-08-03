@@ -1,6 +1,8 @@
 ---
 title: "Spatial join"
 permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-3/spatial-join/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

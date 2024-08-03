@@ -1,6 +1,8 @@
 ---
 title: "Log in GitHub"
 permalink: /learning-and-development/pathways/geo-python/lessons/L2/log-in-GitHub/
+sidebar:
+  nav: "geo-python"
 ---
 
 

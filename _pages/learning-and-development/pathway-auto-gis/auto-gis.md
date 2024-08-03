@@ -1,6 +1,8 @@
 ---
 title: "Auto gis"
 permalink: /learning-and-development/pathways/auto-gis/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

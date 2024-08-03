@@ -1,6 +1,8 @@
 ---
 title: "Grading"
 permalink: /learning-and-development/pathways/auto-gis/course-info/grading/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

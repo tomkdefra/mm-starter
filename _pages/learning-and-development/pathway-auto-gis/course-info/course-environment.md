@@ -1,6 +1,8 @@
 ---
 title: "Course environment"
 permalink: /learning-and-development/pathways/auto-gis/course-info/course-environment/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

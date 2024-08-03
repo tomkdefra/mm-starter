@@ -1,6 +1,8 @@
 ---
 title: "Overview"
 permalink: /learning-and-development/pathways/geo-python/final-exercise/overview/
+sidebar:
+  nav: "geo-python"
 ---
 
 

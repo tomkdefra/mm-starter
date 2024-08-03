@@ -1,6 +1,8 @@
 ---
 title: "Simplifying geometries"
 permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-4/simplifying-geometries/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

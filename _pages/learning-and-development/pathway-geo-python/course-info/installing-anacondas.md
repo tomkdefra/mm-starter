@@ -1,6 +1,8 @@
 ---
 title: "Installing anacondas"
 permalink: /learning-and-development/pathways/geo-python/course-info/installing-anacondas/
+sidebar:
+  nav: "geo-python"
 ---
 
 

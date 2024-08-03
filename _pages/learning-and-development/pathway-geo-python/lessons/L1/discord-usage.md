@@ -1,6 +1,8 @@
 ---
 title: "Discord usage"
 permalink: /learning-and-development/pathways/geo-python/lessons/L1/discord-usage/
+sidebar:
+  nav: "geo-python"
 ---
 
 

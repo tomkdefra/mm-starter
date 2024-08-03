@@ -1,6 +1,8 @@
 ---
 title: "Interactive maps"
 permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-5/interactive-maps/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

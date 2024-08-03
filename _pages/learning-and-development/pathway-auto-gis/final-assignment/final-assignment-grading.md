@@ -1,6 +1,8 @@
 ---
 title: "Final assignment grading"
 permalink: /learning-and-development/pathways/auto-gis/final-assignment/final-assignment-grading/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

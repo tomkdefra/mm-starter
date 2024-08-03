@@ -1,6 +1,8 @@
 ---
 title: "Grading"
 permalink: /learning-and-development/pathways/geo-python/course-info/grading/
+sidebar:
+  nav: "geo-python"
 ---
 
 

@@ -1,6 +1,8 @@
 ---
 title: "Vector data io"
 permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-2/vector-data-io/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

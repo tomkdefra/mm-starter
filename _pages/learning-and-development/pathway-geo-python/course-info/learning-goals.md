@@ -1,6 +1,8 @@
 ---
 title: "Learning goals"
 permalink: /learning-and-development/pathways/geo-python/course-info/learning-goals/
+sidebar:
+  nav: "geo-python"
 ---
 
 

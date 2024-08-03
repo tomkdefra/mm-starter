@@ -1,6 +1,8 @@
 ---
 title: "Geocoding in geopandas"
 permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-3/geocoding-in-geopandas/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

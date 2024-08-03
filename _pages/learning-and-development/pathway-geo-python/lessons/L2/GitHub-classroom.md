@@ -1,6 +1,8 @@
 ---
 title: "GitHub classroom"
 permalink: /learning-and-development/pathways/geo-python/lessons/L2/GitHub-classroom/
+sidebar:
+  nav: "geo-python"
 ---
 
 

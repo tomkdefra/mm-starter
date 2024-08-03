@@ -1,6 +1,8 @@
 ---
 title: "Overlay analysis"
 permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-4/overlay-analysis/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

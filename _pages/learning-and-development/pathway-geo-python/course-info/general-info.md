@@ -1,6 +1,8 @@
 ---
 title: "Course info"
 permalink: /learning-and-development/pathways/geo-python/course-info/general-info/
+sidebar:
+  nav: "geo-python"
 ---
 
 

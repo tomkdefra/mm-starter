@@ -1,6 +1,8 @@
 ---
 title: "Exercise 4"
 permalink: /learning-and-development/pathways/geo-python/lessons/L4/exercise-4/
+sidebar:
+  nav: "geo-python"
 ---
 
 

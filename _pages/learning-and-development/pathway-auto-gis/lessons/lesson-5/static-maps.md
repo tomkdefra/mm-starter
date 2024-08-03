@@ -1,6 +1,8 @@
 ---
 title: "Static maps"
 permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-5/static-maps/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

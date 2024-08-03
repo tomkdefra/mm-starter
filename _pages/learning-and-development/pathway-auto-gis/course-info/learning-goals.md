@@ -1,6 +1,8 @@
 ---
 title: "Learning goals"
 permalink: /learning-and-development/pathways/auto-gis/course-info/learning-goals/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

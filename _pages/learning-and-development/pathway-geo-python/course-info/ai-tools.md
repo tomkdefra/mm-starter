@@ -1,6 +1,8 @@
 ---
 title: "Ai tools"
 permalink: /learning-and-development/pathways/geo-python/course-info/ai-tools/
+sidebar:
+  nav: "geo-python"
 ---
 
 

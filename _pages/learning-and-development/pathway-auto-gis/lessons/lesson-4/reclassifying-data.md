@@ -1,6 +1,8 @@
 ---
 title: "Reclassifying data"
 permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-4/reclassifying-data/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

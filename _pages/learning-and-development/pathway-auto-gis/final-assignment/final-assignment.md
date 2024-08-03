@@ -1,6 +1,8 @@
 ---
 title: "Final assignment"
 permalink: /learning-and-development/pathways/auto-gis/final-assignment/final-assignment/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

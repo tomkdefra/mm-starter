@@ -1,6 +1,8 @@
 ---
 title: "Retrieve data from openstreetmap"
 permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-6/retrieve-data-from-openstreetmap/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

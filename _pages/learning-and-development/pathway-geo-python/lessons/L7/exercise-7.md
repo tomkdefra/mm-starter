@@ -1,6 +1,8 @@
 ---
 title: "Exercise 7"
 permalink: /learning-and-development/pathways/geo-python/lessons/L7/exercise-7/
+sidebar:
+  nav: "geo-python"
 ---
 
 

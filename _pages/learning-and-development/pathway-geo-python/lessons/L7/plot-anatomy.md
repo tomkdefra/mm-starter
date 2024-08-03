@@ -1,6 +1,8 @@
 ---
 title: "Plot anatomy"
 permalink: /learning-and-development/pathways/geo-python/lessons/L7/plot-anatomy/
+sidebar:
+  nav: "geo-python"
 ---
 
 

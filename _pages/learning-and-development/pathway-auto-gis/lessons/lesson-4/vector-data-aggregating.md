@@ -1,6 +1,8 @@
 ---
 title: "Vector data aggregating"
 permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-4/vector-data-aggregating/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

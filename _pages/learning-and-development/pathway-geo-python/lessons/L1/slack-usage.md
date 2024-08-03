@@ -1,6 +1,8 @@
 ---
 title: "Slack usage"
 permalink: /learning-and-development/pathways/geo-python/lessons/L1/slack-usage/
+sidebar:
+  nav: "geo-python"
 ---
 
 

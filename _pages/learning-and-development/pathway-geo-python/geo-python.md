@@ -1,6 +1,8 @@
 ---
 title: "Geo python"
 permalink: /learning-and-development/pathways/geo-python/
+sidebar:
+  nav: "geo-python"
 ---
 
 

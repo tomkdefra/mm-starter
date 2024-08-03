@@ -1,6 +1,8 @@
 ---
 title: "Resources"
 permalink: /learning-and-development/pathways/auto-gis/course-info/resources/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

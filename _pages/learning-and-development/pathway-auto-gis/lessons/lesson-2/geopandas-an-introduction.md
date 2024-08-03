@@ -1,6 +1,8 @@
 ---
 title: "Geopandas an introduction"
 permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-2/geopandas-an-introduction/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

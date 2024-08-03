@@ -1,6 +1,8 @@
 ---
 title: "General information"
 permalink: /learning-and-development/pathways/auto-gis/course-info/general-information/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

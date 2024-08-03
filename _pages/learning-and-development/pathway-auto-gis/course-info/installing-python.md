@@ -1,6 +1,8 @@
 ---
 title: "Installing python"
 permalink: /learning-and-development/pathways/auto-gis/course-info/installing-python/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

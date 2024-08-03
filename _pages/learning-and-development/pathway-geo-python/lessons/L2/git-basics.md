@@ -1,6 +1,8 @@
 ---
 title: "Git basics"
 permalink: /learning-and-development/pathways/geo-python/lessons/L2/git-basics/
+sidebar:
+  nav: "geo-python"
 ---
 
 

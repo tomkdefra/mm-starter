@@ -1,6 +1,8 @@
 ---
 title: "Point in polygon queries"
 permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-3/point-in-polygon-queries/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

@@ -1,6 +1,8 @@
 ---
 title: "Map projections"
 permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-2/map-projections/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

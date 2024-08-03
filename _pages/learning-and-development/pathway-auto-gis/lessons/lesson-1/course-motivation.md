@@ -1,6 +1,8 @@
 ---
 title: "Course motivation"
 permalink: /learning-and-development/pathways/auto-gis/lessons/lesson-1/course-motivation/
+sidebar:
+  nav: "auto-gis"
 ---
 
 

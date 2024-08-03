@@ -75,7 +75,7 @@ defaults:
   # _pathway-geo-python
   - scope:
       path: "_pages/learning-and-development/pathways/geo-python"
-      type: pathways
+      type: pages
     values:
       layout: single
       sidebar:
@@ -83,7 +83,7 @@ defaults:
   # _pathway-auto-gis
   - scope:
       path: "_pages/learning-and-development/pathways/auto-gis"
-      type: pathways
+      type: pages
     values:
       layout: single
       sidebar:

@@ -74,17 +74,17 @@ defaults:
       type: pages
     values:
       layout: single
-  # _pathway-geo-python
+  # _pathwaygeopython
   - scope:
-      path: "_pathway-geo-python"
+      path: "_pathwaygeopython"
       type: pathways
     values:
       layout: single
       sidebar:
         nav: "geo-python"
-  # _pathway-auto-gis
+  # _pathwayautogis
   - scope:
-      path: "_pathway-auto-gis"
+      path: "_pathwayautogis"
       type: pathways
     values:
       layout: single

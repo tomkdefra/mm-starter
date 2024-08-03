@@ -25,7 +25,6 @@ geo-python:
         url: /learning-and-development/pathways/geo-python/course-info/license-and-using-materials/
       - title: "The Geo-Python team"
         url: /learning-and-development/pathways/geo-python/course-info/geo-python-team/
-  
   - title: Lesson 1
     children:
       - title: "Motivation for the course"
@@ -42,7 +41,6 @@ geo-python:
         url: /learning-and-development/pathways/geo-python/lessons/lesson-1/gcp-1-selecting-good-variable-names/
       - title: "Exercise 1"
         url: /learning-and-development/pathways/geo-python/lessons/lesson-1/exercise-1/
-  
   - title: Lesson 2
     children:
       - title: "Lesson overview"
@@ -61,7 +59,6 @@ geo-python:
         url: /learning-and-development/pathways/geo-python/lessons/lesson-2/why-are-we-working-in-pairs/
       - title: "Exercise 2"
         url: /learning-and-development/pathways/geo-python/lessons/lesson-2/exercise-2/
-  
   - title: Lesson 3
     children:
       - title: "Lesson overview"
@@ -74,7 +71,6 @@ geo-python:
         url: /learning-and-development/pathways/geo-python/lessons/lesson-3/gcp-3-writing-readable-code/
       - title: "Exercise 3"
         url: /learning-and-development/pathways/geo-python/lessons/lesson-3/exercise-3/
-  
   - title: Lesson 4
     children:
       - title: "Lesson overview"
@@ -91,7 +87,6 @@ geo-python:
         url: /learning-and-development/pathways/geo-python/lessons/lesson-4/gcp-4-writing-our-scripts-the-right-way/
       - title: "Exercise 4"
         url: /learning-and-development/pathways/geo-python/lessons/lesson-4/exercise-4/
-  
   - title: Lesson 5
     children:
       - title: "Lesson overview"
@@ -104,7 +99,6 @@ geo-python:
         url: /learning-and-development/pathways/geo-python/lessons/lesson-5/processing-data-with-pandas/
       - title: "Exercise 5"
         url: /learning-and-development/pathways/geo-python/lessons/lesson-5/exercise-5/
-  
   - title: Lesson 6
     children:
       - title: "Lesson overview"
@@ -119,7 +113,6 @@ geo-python:
         url: /learning-and-development/pathways/geo-python/lessons/lesson-6/debugging-your-python-code/
       - title: "Exercise 6"
         url: /learning-and-development/pathways/geo-python/lessons/lesson-6/exercise-6/
-  
   - title: Lesson 7
     children:
       - title: "Lesson overview"
@@ -134,14 +127,12 @@ geo-python:
         url: /learning-and-development/pathways/geo-python/lessons/lesson-7/more-advanced-plotting-with-pandas-matplotlib/
       - title: "Exercise 7"
         url: /learning-and-development/pathways/geo-python/lessons/lesson-7/exercise-7/
-  
   - title: Final exercise
     children:
       - title: "Final exercise assignment"
         url: /learning-and-development/pathways/geo-python/final-exercise/final-exercise-assignment/
       - title: "Grading"
         url: /learning-and-development/pathways/geo-python/final-exercise/grading/
-  
   - title: Resources
     children:
       - title: "Glossary"
@@ -172,7 +163,6 @@ auto-gis:
         url: /learning-and-development/pathways/auto-gis/course-info/resources/
       - title: "License and Terms of Use"
         url: /learning-and-development/pathways/auto-gis/course-info/license-terms/
-    
   - title: Lesson 1
     children:
       - title: "Overview"
@@ -183,7 +173,6 @@ auto-gis:
         url: /learning-and-development/pathways/auto-gis/lessons/lesson-1/shapely-geometry-objects/
       - title: "Exercise 1"
         url: /learning-and-development/pathways/auto-gis/lessons/lesson-1/exercise-1/
-  
   - title: Lesson 2
     children:
       - title: "Overview"
@@ -200,7 +189,6 @@ auto-gis:
         url: /learning-and-development/pathways/auto-gis/lessons/lesson-2/map-projections/
       - title: "Exercise 2"
         url: /learning-and-development/pathways/auto-gis/lessons/lesson-2/exercise-2/
-  
   - title: Lesson 3
     children:
       - title: "Overview"
@@ -217,7 +205,6 @@ auto-gis:
         url: /learning-and-development/pathways/auto-gis/lessons/lesson-3/spatial-join/
       - title: "Exercise 3"
         url: /learning-and-development/pathways/auto-gis/lessons/lesson-3/exercise-3/
-  
   - title: Lesson 4
     children:
       - title: "Overview"
@@ -232,7 +219,6 @@ auto-gis:
         url: /learning-and-development/pathways/auto-gis/lessons/lesson-4/reclassifying-data/
       - title: "Exercise 4"
         url: /learning-and-development/pathways/auto-gis/lessons/lesson-4/exercise-4/
-  
   - title: Lesson 5
     children:
       - title: "Overview"
@@ -243,7 +229,6 @@ auto-gis:
         url: /learning-and-development/pathways/auto-gis/lessons/lesson-5/interactive-maps/
       - title: "Exercise 5"
         url: /learning-and-development/pathways/auto-gis/lessons/lesson-5/exercise-5/
-  
   - title: Lesson 6
     children:
       - title: "Overview"
@@ -252,7 +237,6 @@ auto-gis:
         url: /learning-and-development/pathways/auto-gis/lessons/lesson-6/retrieving-data-openstreetmap/
       - title: "Network analysis in Python"
         url: /learning-and-development/pathways/auto-gis/lessons/lesson-6/network-analysis-python/
-
   - title: Final Assignment
     children:
       - title: "Final assignment"

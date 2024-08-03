@@ -74,7 +74,7 @@ defaults:
       layout: single
   # _pathwaygeopython
   - scope:
-      path: "_pathwaygeopython"
+      path: ""
       type: pathways
     values:
       layout: single
@@ -82,7 +82,7 @@ defaults:
         nav: "geo-python"
   # _pathwayautogis
   - scope:
-      path: "_pathwayautogis"
+      path: ""
       type: pathways
     values:
       layout: single

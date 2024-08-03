@@ -247,3 +247,31 @@ auto-gis:
         url: /learning-and-development/pathways/auto-gis/final-assignment/hints/
       - title: "Theme by the Executable Book Project"
         url: /learning-and-development/pathways/auto-gis/final-assignment/theme/
+
+reproducible-analytical-pipelines:
+  - title: "Building Reproducible Analytical Pipelines"
+    url: /learning-and-development/pathways/reproducible-analytical-pipelines/building-reproducible-analytical-pipelines/
+  - title: "Intro R"
+    url: /learning-and-development/pathways/reproducible-analytical-pipelines/intro-r/
+  - title: "Functional Programming"
+    url: /learning-and-development/pathways/reproducible-analytical-pipelines/functional-programming/
+  - title: "Git"
+    url: /learning-and-development/pathways/reproducible-analytical-pipelines/git/
+  - title: "Package Development"
+    url: /learning-and-development/pathways/reproducible-analytical-pipelines/package-dev/
+  - title: "Unit Tests"
+    url: /learning-and-development/pathways/reproducible-analytical-pipelines/unit-tests/
+  - title: "Targets"
+    url: /learning-and-development/pathways/reproducible-analytical-pipelines/targets/
+  - title: "Products"
+    url: /learning-and-development/pathways/reproducible-analytical-pipelines/products/
+  - title: "Docker"
+    url: /learning-and-development/pathways/reproducible-analytical-pipelines/docker/
+  - title: "GitHub Actions"
+    url: /learning-and-development/pathways/reproducible-analytical-pipelines/github-actions/
+  - title: "Nix"
+    url: /learning-and-development/pathways/reproducible-analytical-pipelines/nix/
+  - title: "What Else"
+    url: /learning-and-development/pathways/reproducible-analytical-pipelines/what-else/
+  - title: "Conclusion"
+    url: /learning-and-development/pathways/reproducible-analytical-pipelines/conclusion/

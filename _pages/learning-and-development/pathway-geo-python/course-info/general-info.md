@@ -6,8 +6,6 @@ sidebar:
 ---
 
 
-# General info
-
 This is a joint course for geography and geology students at the
 Department of Geosciences and Geography, University of Helsinki (course
 codes GEOK3001 and GEOG-329-1).

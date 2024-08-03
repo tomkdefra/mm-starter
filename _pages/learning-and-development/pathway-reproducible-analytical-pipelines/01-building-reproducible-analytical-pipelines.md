@@ -1,6 +1,6 @@
 ---
 title: "Building Reproducible Analytical Pipelines"
-permalink: /learning-and-development/pathways/reproducible-analytical-pipelines/building-reproducible-analytical-pipelines/
+permalink: /learning-and-development/pathways/reproducible-analytical-pipelines/
 sidebar:
   nav: "reproducible-analytical-pipelines"
 ---

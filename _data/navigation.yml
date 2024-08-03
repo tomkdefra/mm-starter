@@ -250,7 +250,7 @@ auto-gis:
 
 reproducible-analytical-pipelines:
   - title: "Building Reproducible Analytical Pipelines"
-    url: /learning-and-development/pathways/reproducible-analytical-pipelines/building-reproducible-analytical-pipelines/
+    url: /learning-and-development/pathways/reproducible-analytical-pipelines/
   - title: "Intro R"
     url: /learning-and-development/pathways/reproducible-analytical-pipelines/intro-r/
   - title: "Functional Programming"

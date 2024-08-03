@@ -64,8 +64,8 @@ footer:
 
 include:
   - _pages
-  - _pathway-geo-python
-  - _pathway-auto-gis
+  - _pathwaygeopython
+  - _pathwayautogis
 
 defaults:
   # _pages

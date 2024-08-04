@@ -6,8 +6,6 @@ sidebar:
 ---
 
 
-# Git
-
 <div style="text-align:center;">
 ```{r, echo = F}
 knitr::include_graphics("img/git_header.png")
@@ -48,7 +46,7 @@ unnescessarily complex. So buckle up, because this chapter is not going to be
 easy.
 
 Git is incredibly powerful, and absolutely essential in our line of work, it is
-simply not p ossible to not know at least some basics of Git. And this is what
+simply not possible to not know at least some basics of Git. And this is what
 we're going to do, learn the basics, it'll keep us plenty busy already.
 
 But for now, let's pause for a brief moment and watch [this

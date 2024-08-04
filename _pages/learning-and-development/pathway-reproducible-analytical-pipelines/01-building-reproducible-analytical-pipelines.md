@@ -8,15 +8,6 @@ sidebar:
 
 # Introduction {.unnumbered}
 
-```{r, include = FALSE}
-library(formatR)
-knitr::opts_chunk$set(tidy.opts = list(width.cutoff = 60), tidy = TRUE)
-```
-
-<div style="text-align:center;">
-<img src="/img/cover.png" title = "Cover image created with Dall-e. The prompt was 'Roman engineer building a pipeline in the style of ancient roman art'. The result doesn't really show that, but I thought it looked nice." width="70%">
-</div>
-
 *This is the 2023 edition of the course. If you're looking for the 2022 edition,
 you can click [here](https://b-rodrigues.github.io/rap4mads/)*
 

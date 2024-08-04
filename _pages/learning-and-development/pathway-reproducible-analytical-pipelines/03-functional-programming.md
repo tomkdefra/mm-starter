@@ -1,18 +1,10 @@
 ---
-title: "Functional Programming"
+title: "A primer on functional programming"
 permalink: /learning-and-development/pathways/reproducible-analytical-pipelines/functional-programming/
 sidebar:
   nav: "reproducible-analytical-pipelines"
 ---
 
-
-# A primer on functional programming
-
-<div style="text-align:center;">
-```{r, echo = F}
-knitr::include_graphics("img/lambda.png")
-```
-</div>
 
 What you'll have learned by the end of the chapter: writing your own functions,
 functional programming basics (map, reduce, anonymous functions and higher-order

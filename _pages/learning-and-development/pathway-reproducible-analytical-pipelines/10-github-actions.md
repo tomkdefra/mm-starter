@@ -1,6 +1,6 @@
 ---
-title: "Github_actions"
-permalink: /learning-and-development/pathways/reproducible-analytical-pipelines/github_actions/
+title: "Github actions"
+permalink: /learning-and-development/pathways/reproducible-analytical-pipelines/github-actions/
 sidebar:
   nav: "reproducible-analytical-pipelines"
 ---

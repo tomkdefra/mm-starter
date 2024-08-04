@@ -1,18 +1,13 @@
 ---
-title: "Intro_R"
-permalink: /learning-and-development/pathways/reproducible-analytical-pipelines/intro_R/
+title: "
+"
+permalink: /learning-and-development/pathways/reproducible-analytical-pipelines/intro-r/
 sidebar:
   nav: "reproducible-analytical-pipelines"
 ---
 
 
 # Introduction to R
-
-<div style="text-align:center;">
-```{r, echo = F}
-knitr::include_graphics("img/abacus.png")
-```
-</div>
 
 What you'll have learned by the end of the chapter: reading and writing,
 exploring (and optionally visualising) data.

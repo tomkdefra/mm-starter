@@ -1,12 +1,10 @@
 ---
-title: "GitHub classroom"
-permalink: /learning-and-development/pathways/geo-python/lessons/L2/GitHub-classroom/
+title: "Using Classroom for Github"
+permalink: /learning-and-development/pathways/geo-python/lessons/L2/github-classroom/
 sidebar:
   nav: "geo-python"
 ---
 
-
-# Using Classroom for Github
 
 As you have seen last week we will be using [Classroom for
 GitHub](https://classroom.github.com) for the exercises in the course.

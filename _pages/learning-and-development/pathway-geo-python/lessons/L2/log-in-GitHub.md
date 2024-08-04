@@ -1,12 +1,10 @@
 ---
-title: "Log in GitHub"
-permalink: /learning-and-development/pathways/geo-python/lessons/L2/log-in-GitHub/
+title: "Logging into GitHub"
+permalink: /learning-and-development/pathways/geo-python/lessons/L2/log-in-github/
 sidebar:
   nav: "geo-python"
 ---
 
-
-# Logging into GitHub
 
 If you\'re reading this, you have presumably found your way to GitHub,
 but perhaps you have not logged in.

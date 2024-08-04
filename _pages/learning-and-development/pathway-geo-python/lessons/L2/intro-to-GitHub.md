@@ -1,6 +1,6 @@
 ---
 title: "Intro to GitHub"
-permalink: /learning-and-development/pathways/geo-python/lessons/L2/intro-to-GitHub/
+permalink: /learning-and-development/pathways/geo-python/lessons/L2/intro-to-github/
 sidebar:
   nav: "geo-python"
 ---

@@ -48,11 +48,11 @@ geo-python:
       - title: "Basic elements of Python"
         url: /learning-and-development/pathways/geo-python/lessons/lesson-2/basic-elements-of-python/
       - title: "Introduction to Version Control"
-        url: /learning-and-development/pathways/geo-python/lessons/lesson-2/introduction-to-version-control/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-2/intro-to-github/
       - title: "Meet Git"
         url: /learning-and-development/pathways/geo-python/lessons/lesson-2/meet-git/
       - title: "Using Classroom for Github"
-        url: /learning-and-development/pathways/geo-python/lessons/lesson-2/using-classroom-for-github/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-2/github-classroom/
       - title: "GCP 2 - Describing your code"
         url: /learning-and-development/pathways/geo-python/lessons/lesson-2/gcp-2-describing-your-code/
       - title: "Why are we working in pairs?"

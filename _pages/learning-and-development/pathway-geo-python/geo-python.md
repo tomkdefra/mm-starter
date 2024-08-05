@@ -1,12 +1,13 @@
 ---
 title: "Geo python"
 permalink: /learning-and-development/pathways/geo-python/
-header:
-  image: assets/images/geo-python-2023.webp
 sidebar:
+  image: assets/images/geopython.png
   nav: "geo-python"
 ---
 
+
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/geo-python-2023.webp)
 
 This **Geospatial Python** course teaches you the basic concepts of programming and scientific data analysis using the Python programming language in a format that is easy to learn and understand (no previous programming experience required). Each lesson is a tutorial with specific topic(s) where the aim is to gain skills and understanding how to solve common data-related tasks using Python. The course has been developed jointly by the Master's Program in Geography and the Bachelor's Program in Geoscience at the University of Helsinki, and has been adapted for learning on the DASH Databricks platform under a [Creative Commons Attribution-ShareAlike 4.0 International licence](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 

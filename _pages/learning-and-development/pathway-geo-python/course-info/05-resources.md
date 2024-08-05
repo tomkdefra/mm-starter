@@ -1,15 +1,13 @@
 ---
-title: "Resources"
+title: "Useful Resources"
 permalink: /learning-and-development/pathways/geo-python/course-info/resources/
 sidebar:
   nav: "geo-python"
 ---
 
 
-# Useful books and sites
-
-In addition to our course, there are countless of excellent books,
-tutorials and examples related to programming in Python. Here we list
+In addition to this course, there are countless of excellent books,
+tutorials and examples related to programming in Python. Here are
 some good places to look for further information.
 
 ## New book: Introduction to Python for Geographic Data Analysis

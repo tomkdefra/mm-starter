@@ -7,24 +7,22 @@ main:
     url: /learning-and-development/
   - title: "About DASH"
     url: /about/
-  - title: "Newsletter"
-    url: /newsletter/
 
 geo-python:
   - title: Course information
     children:
-      - title: "General info"
-        url: /learning-and-development/pathways/geo-python/course-info/general-info/
       - title: "Learning goals"
         url: /learning-and-development/pathways/geo-python/course-info/learning-goals/
-      - title: "Grading"
-        url: /learning-and-development/pathways/geo-python/course-info/grading/
       - title: "Use of AI tools"
         url: /learning-and-development/pathways/geo-python/course-info/use-of-ai-tools/
       - title: "License and using our materials"
         url: /learning-and-development/pathways/geo-python/course-info/license-and-using-materials/
-      - title: "The Geo-Python team"
-        url: /learning-and-development/pathways/geo-python/course-info/geo-python-team/
+      - title: "Glossary"
+        url: /learning-and-development/pathways/geo-python/course-info/glossary/
+      - title: "Useful Resources"
+        url: /learning-and-development/pathways/geo-python/course-info/resources/
+      - title: "Useful Resources"
+        url: /learning-and-development/pathways/geo-python/course-info/theteam/
   - title: Lesson 1
     children:
       - title: "Motivation for the course"

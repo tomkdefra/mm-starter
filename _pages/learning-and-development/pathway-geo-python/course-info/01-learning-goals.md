@@ -6,19 +6,17 @@ sidebar:
 ---
 
 
-# Learning goals
-
 During the Geo-Python course you will learn the basics of programming
 and scientific data analysis in the Python programming language. This
 course will also teach you several skills related to open science. Each
 week you will learn new skills building upon the content of the previous
 weeks.
 
-After each week of the course, students will be able to:
+After each week of the course, learners will be able to:
 
 ## Week one
 
--   Understand tools we are using during this course
+-   Understand tools we introduced during this course
 -   Explain the basic concepts of a
     1.  computer
     2.  program
@@ -34,7 +32,7 @@ After each week of the course, students will be able to:
 -   explain the concept of an index value
 -   understand the basics of version control
 -   use git and GitHub to record changes to your files
--   use Jupyter notebooks for writing and documenting your code
+-   use Databricks notebooks for writing and documenting your code
 
 ## Week three
 
@@ -63,13 +61,13 @@ After each week of the course, students will be able to:
 
 ## Week six
 
--   manage and analyze tabular data using pandas
+-   manage and analyse tabular data using pandas
 -   repeat an analysis workflow for several input files
 -   understand common Python errors
 -   follow a simple set of guidelines to debug programs efficiently
 
 ## Week seven
 
--   visualize tabular data using Matplotlib
+-   visualise tabular data using Matplotlib
 -   manipulate plot formatting
 -   save plots as image files

@@ -1,12 +1,10 @@
 ---
-title: "Licensing"
+title: "License and using our materials"
 permalink: /learning-and-development/pathways/geo-python/course-info/licensing/
 sidebar:
   nav: "geo-python"
 ---
 
-
-# License and using our materials
 
 It is our hope that the materials provided here will be helpful for
 others. Thus, we share all the lesson materials openly, and our source

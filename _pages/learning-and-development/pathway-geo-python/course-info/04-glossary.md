@@ -1,12 +1,10 @@
 ---
-title: "Python vocabulary"
-permalink: /learning-and-development/pathways/geo-python/course-info/python-vocabulary/
+title: "Glossary"
+permalink: /learning-and-development/pathways/geo-python/course-info/glossary/
 sidebar:
   nav: "geo-python"
 ---
 
-
-# Glossary
 
 ## Python vocabulary
 
@@ -15,67 +13,55 @@ Add links to dedicated parts of the documentation.
 :::
 
 Here we provide a list of commonly used terms that you will most
-probably encounter when doing Python programming. Terms are listed in
-alphabetical order in English. Finnish terms and definitions are shown
-in italics.
+probably encounter when doing Python programming. 
 
-::: glossary
-
-data type (*tietotyyppi*)
+data type
 
 :   An attribute defining the characteristics of a value in a program.
     For example, type [int]{.title-ref} is an integer (whole number).
 
-    *Definition to be given in Finnish.*
 
-function (*funktio*)
+function
 
 :   A reusable piece of code that performs a single action.
 
-    *Definition to be given in Finnish.*
 
-index (*taulukko*)
+index
 
 :   A number indicating the location of a specific value stored in
     Python lists or tuples. The first index value of list is always `0`.
 
-    *Definition to be given in Finnish.*
 
-library (*ohjelmakirjasto*)
+library
 
 :   A group of related modules.
 
-    *Definition to be given in Finnish.*
 
-list (*lista*)
+list 
 
 :   A data type in Python that can be used to store collections of
     values. The data in lists can be heterogeneous and data can be added
     or removed from lists. Index values can be used to access invididual
     list items.
 
-    *Definition to be given in Finnish.*
 
-module (*moduuli*)
+module
 
 :   A file containing Python definitions and statements. Module files
     have the `.py` file extension.
 
-    *Definition to be given in Finnish.*
 
-script (*ohjelma*)
+script
 
 :   A dedicated document for writing Python code that you can execute.
     Python script files should always have the `.py` file extension.
 
-    *Definition to be given in Finnish.*
 
-variable (*muuttuja*)
+variable
 
 :   A way of storing values in the memory of the computer using specific
     names that you define.
 
-    *Definition to be given in Finnish.*
 :::
 
 -   **Data types**
@@ -99,7 +85,7 @@ control (not exhaustive).
 
 ::: glossary
 
-Repository
+Repository 
 
 :   A location where all the files for a particular project are stored,
     usually abbreviated to "repo." Each project will have its own repo,
@@ -118,8 +104,8 @@ Repository
     made in any form to a document(s).
 -   **Clone** = Cloning means creating a repository containing the
     revisions from another repository. This is equivalent to pushing or
-    pulling into an empty (newly initialized) repository. As a noun, two
-    repositories can be said to be clones if they are kept synchronized,
+    pulling into an empty (newly initialised) repository. As a noun, two
+    repositories can be said to be clones if they are kept synchronised,
     and contain the same revisions.
 -   **Pull / push** = Copy revisions from one repository into another.
     Pull is initiated by the receiving repository, while push is

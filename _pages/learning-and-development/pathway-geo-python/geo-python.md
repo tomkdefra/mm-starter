@@ -2,7 +2,7 @@
 title: "Geo python"
 permalink: /learning-and-development/pathways/geo-python/
 header:
-  image: _pages/learning-and-development/pathway-geo-python/_static/geopython2.png
+  image: assets\images\geo-python-2023.webp
 sidebar:
   nav: "geo-python"
 ---

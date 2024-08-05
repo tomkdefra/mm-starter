@@ -1,6 +1,6 @@
 ---
 title: "Overview"
-permalink: /learning-and-development/pathways/geo-python/lessons/L1/overview/
+permalink: /learning-and-development/pathways/geo-python/lessons/lesson-1/overview/
 sidebar:
   nav: "geo-python"
 ---

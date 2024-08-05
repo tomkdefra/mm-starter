@@ -26,13 +26,15 @@ geo-python:
   - title: Lesson 1
     children:
       - title: "Motivation for the course"
-        url: /learning-and-development/pathways/geo-python/lessons/lesson-1/motivation-for-the-course/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-1/motivation/
       - title: "Lesson overview"
-        url: /learning-and-development/pathways/geo-python/lessons/lesson-1/lesson-overview/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-1/overview/
       - title: "Course environment"
         url: /learning-and-development/pathways/geo-python/lessons/lesson-1/course-environment/
-      - title: "Communicating with Discord"
-        url: /learning-and-development/pathways/geo-python/lessons/lesson-1/communicating-with-discord/
+      - title: "GitHub discussions"
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-1/github-discussions/
+      - title: "Course notebooks"
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-1/course-notebooks/
       - title: "A taste of Python"
         url: /learning-and-development/pathways/geo-python/lessons/lesson-1/a-taste-of-python/
       - title: "GCP 1 - Selecting 'good' variable names"

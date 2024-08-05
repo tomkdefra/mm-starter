@@ -2,8 +2,8 @@
 title: ""
 permalink: /learning-and-development/pathways/geo-python/
 sidebar:
-  image: assets/images/geopython.png
   nav: "geo-python"
+  image: assets/images/geopython.png
 ---
 
 

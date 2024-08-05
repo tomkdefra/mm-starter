@@ -1,5 +1,5 @@
 ---
-title: "Geo python"
+title: ""
 permalink: /learning-and-development/pathways/geo-python/
 sidebar:
   image: assets/images/geopython.png

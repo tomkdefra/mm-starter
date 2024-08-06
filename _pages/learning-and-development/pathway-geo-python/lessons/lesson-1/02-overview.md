@@ -34,55 +34,22 @@ After this weeks lesson your should be able to:
 
 ## Lesson videos
 
-:::: {.admonition .admonition-youtube}
-Lesson 1.1 - Course introduction and computing basics
-
-::: youtube
-LoJrk3a4x88
-:::
-
-Dave Whipp & Kamyar Hasanzadeh, University of Helsinki @ [Geo-Python
-channel on
-Youtube](https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A).
-::::
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/LoJrk3a4x88" frameborder="25" allowfullscreen></iframe>
-
 **Lesson 1.1 - Course introduction and computing basics**
 {: .notice--info}
-<div markdown="1">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/LoJrk3a4x88" frameborder="0" allowfullscreen></iframe>
-</div>
 
-:::: {.admonition .admonition-youtube}
-Lesson 1.2 - Course environment and a taste of Python
 
-::: youtube
-MD0LteTpJNA
-:::
+**Lesson 1.2 - Course environment and a taste of Python**
+{: .notice--info}
+<iframe width="640" height="360" src="https://www.youtube.com/embed/MD0LteTpJNA" frameborder="0" allowfullscreen></iframe>
 
-Dave Whipp & Kamyar Hasanzadeh, University of Helsinki @ [Geo-Python
-channel on
-Youtube](https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A).
-::::
 
-:::: {.admonition .admonition-youtube}
-GCP 1 - Selecting \"good\" variable names
+**GCP 1 - Selecting \"good\" variable names**
+{: .notice--info}
+<iframe width="640" height="360" src="https://www.youtube.com/embed/G0FZkgbQYGg" frameborder="0" allowfullscreen></iframe>
 
-::: youtube
-G0FZkgbQYGg
-:::
-
-Dave Whipp & Vuokko Heikinheimo, University of Helsinki @ [Geo-Python
-channel on
-Youtube](https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A).
-::::
 
 ## Lecture slides
 
-::: admonition
-Lesson slides
-
-[Slides for Lecture 1
-(PDF)](../../_static/01-Computers-and-programs.pdf)
-:::
+[Slides for Lecture 1(PDF)](../../_static/01-Computers-and-programs.pdf)
+{: .notice--info}

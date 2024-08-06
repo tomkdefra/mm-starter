@@ -3,7 +3,7 @@ title: "DataCamp"
 permalink: /learning-and-development/datacamp
 ---
 
-Unlimited DataCamp licenses are available to everyone in Defra group!
+Unlimited DataCamp licenses are available to everyone in Defra group! YAY!!!
 
 DataCamp offers over 350 courses in coding languages including R, Python and SQL, with content ranging from introductions to data science and analysis to AI and machine learning. These courses provide a series of videos led by expert instructors followed by interactive exercises, all of which you can complete at your own pace and track your progress at the same time. DataCamp is a great resource for those looking to start their data science journey or for more experienced coders wanting to learn some new tools. You can also download the DataCamp app on your phone or tablet so you can learn to code on the go!
 

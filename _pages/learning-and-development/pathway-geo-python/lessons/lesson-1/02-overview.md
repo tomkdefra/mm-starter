@@ -50,7 +50,9 @@ Youtube](https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A).
 
 **Lesson 1.1 - Course introduction and computing basics**
 {: .notice--info}
+<div markdown="1">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/LoJrk3a4x88" frameborder="0" allowfullscreen></iframe>
+</div>
 
 :::: {.admonition .admonition-youtube}
 Lesson 1.2 - Course environment and a taste of Python

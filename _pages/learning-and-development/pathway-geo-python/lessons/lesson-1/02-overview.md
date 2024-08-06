@@ -46,11 +46,14 @@ channel on
 Youtube](https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A).
 ::::
 
-<iframe width="640" height="360" src="https://youtu.be/LoJrk3a4x88?si=iHVZbpX1Fn5V_CfB" frameborder="5" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://youtu.be/LoJrk3a4x88?si=3kQdqj9auzrCGdYx" frameborder="5" allowfullscreen></iframe>
 
 
-**Lesson 1.1 - Course introduction and computing basics**<iframe width="640" height="360" src="https://youtu.be/LoJrk3a4x88?si=iHVZbpX1Fn5V_CfB" frameborder="0" allowfullscreen></iframe>
+**Lesson 1.1 - Course introduction and computing basics**
 {: .notice--info}
+<iframe width="640" height="360" src="https://youtu.be/LoJrk3a4x88?si=3kQdqj9auzrCGdYx" frameborder="0" allowfullscreen></iframe>
+
 
 
 :::: {.admonition .admonition-youtube}

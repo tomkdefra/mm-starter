@@ -1,12 +1,10 @@
 ---
-title: "Overview"
+title: "Lesson overview"
 permalink: /learning-and-development/pathways/geo-python/lessons/lesson-1/overview/
 sidebar:
   nav: "geo-python"
 ---
 
-
-# Lesson overview
 
 Today we will have our first taste of programming in Python. In order to
 start learning Python, however, we need to introduce you how we will
@@ -16,17 +14,12 @@ computing](https://en.wikipedia.org/wiki/Cloud_computing). This first
 tutorial will introduce you to the basic components of the course
 environment, guide you through how they are used, and conclude with a
 hands-on introduction to some key concepts and elements of programming
-in Python. The main components of today\'s lesson can be found in the
+in Python. The main components of today's lesson can be found in the
 navigation bar to the left.
 
-:::: note
-::: title
-Note
-:::
-
-There is a lot of material here but don\'t worry, you will become
+**Note:** There is a lot of material here but don't worry, you will become
 familiar with all of these things once we start working in practice.
-::::
+{: .notice--info}
 
 ## Learning goals
 
@@ -52,6 +45,12 @@ Dave Whipp & Kamyar Hasanzadeh, University of Helsinki @ [Geo-Python
 channel on
 Youtube](https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A).
 ::::
+
+<iframe width="640" height="360" src="https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A" frameborder="5" allowfullscreen></iframe>
+
+
+**Lesson 1.1 - Course introduction and computing basics**<iframe width="640" height="360" src="https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A" frameborder="0" allowfullscreen></iframe>{: .notice--info}
+
 
 :::: {.admonition .admonition-youtube}
 Lesson 1.2 - Course environment and a taste of Python

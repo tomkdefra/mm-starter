@@ -20,7 +20,7 @@ learn a number of other skills related to open science. These include:
 
 To help clarify our goals, consider the example below.
 
-## Effective data visualization
+## Effective data visualisation
 
 One of the things we will learn in this course is how to use Python to
 plot data. As you well know, raw data itself is often not particularly
@@ -98,16 +98,16 @@ And yet again, this helps us understand the data further. Not only do we
 see the changed in temperature, but now we see how temperatures vary
 across the globe. The drawback here is that we only see a single time
 snapshot, rather than a time series. To see both will require a truly
-remarkable visualization.
+remarkable visualisation.
 
-So, let\'s look now at some excellent examples of data visualization
+So, let\'s look now at some excellent examples of data visualisation
 with Python. We have essentially the same data plotted above, but now we
 can see how temperatures vary in space and time.
 
 <video width="800" controls>
   <source src="../../_static/Temp-anomalies-2018.mp4" type="video/mp4">
 </video>
-<p style="text-align:center"><i>Global temperature anomalies by country from 1900-2017. Visualization by Antti Lipponen (<a href="https://twitter.com/anttilip">@anttilip</a>). Source: <a href="https://t.co/ZdGPVTM5yO">https://t.co/ZdGPVTM5yO</a></i></p>
+<p style="text-align:center"><i>Global temperature anomalies by country from 1900-2017. Visualisation by Antti Lipponen (<a href="https://twitter.com/anttilip">@anttilip</a>). Source: <a href="https://t.co/ZdGPVTM5yO">https://t.co/ZdGPVTM5yO</a></i></p>
 
 This animated \"pill packet\" plot of temperature anomalies conveys a
 huge amount of information in a simple form. People can immediately
@@ -121,7 +121,7 @@ peek into the future.
 <video width="800" controls>
   <source src="../../_static/Temp-anomalies-2019.mp4" type="video/mp4">
 </video>
-<p style="text-align:center"><i>Global temperature anomalies past and future, 1900-2100. Visualization by Antti Lipponen (<a href="https://twitter.com/anttilip">@anttilip</a>). Source: <a href="https://t.co/NP22dZ0sCu">https://t.co/NP22dZ0sCu</a></i></p>
+<p style="text-align:center"><i>Global temperature anomalies past and future, 1900-2100. Visualisation by Antti Lipponen (<a href="https://twitter.com/anttilip">@anttilip</a>). Source: <a href="https://t.co/NP22dZ0sCu">https://t.co/NP22dZ0sCu</a></i></p>
 
 This plot nicely conveys the warming of different regions on Earth,
 again in an intuitive format.

@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The Data, Analytics & Science Hub (DASH) is a service providing support to data 
   scientists across Defra group.
 github_username: username
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: gov
 search: true
 enable_copy_code_button: true
 

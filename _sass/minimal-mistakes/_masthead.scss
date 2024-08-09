@@ -14,6 +14,7 @@
 
   &__inner-wrap {
     @include clearfix;
+    background: #0b0c0c;
     margin-inline: auto;
     padding: 1em;
     max-width: 100%;

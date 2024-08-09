@@ -4,7 +4,7 @@
 
 .masthead {
   position: relative;
-  background: #0b0c0c;
+  background: $masthead-background-color;
   border-bottom: 10px solid $primary-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -14,7 +14,6 @@
 
   &__inner-wrap {
     @include clearfix;
-    background: #0b0c0c;
     margin-inline: auto;
     padding: 1em;
     max-width: 100%;

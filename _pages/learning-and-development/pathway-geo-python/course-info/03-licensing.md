@@ -1,5 +1,5 @@
 ---
-title: "License and using our materials"
+title: "License and using these materials"
 permalink: /learning-and-development/pathways/geo-python/course-info/licensing/
 sidebar:
   nav: "geo-python"
@@ -8,10 +8,9 @@ sidebar:
 
 It is our hope that the materials provided here will be helpful for
 others. Thus, we share all the lesson materials openly, and our source
-codes and lesson materials are openly available [from
+code and lesson materials are openly available [from
 GitHub](https://github.com/geo-python/site). If you would like to create
-your own copy of the course online, you can also find
-`information about how to do that below<Getting started hosting your own version of the course>`{.interpreted-text
+your own copy of the course online, you can also find information about how to do that below <Getting started hosting your own version of the course>{.interpreted-text
 role="ref"}.
 
 If you modify the lesson materials we request that you also share your
@@ -25,7 +24,7 @@ role="doc"} or fork the docs on **GitHub**.
 
 ## Instructional materials
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /></a>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
 All the instructional material is made available under the **Creative
 Commons Attribution-ShareAlike 4.0 International licence** . See the
@@ -68,46 +67,35 @@ permissions necessary for your intended use. For example, other rights
 such as [publicity](), privacy, or moral rights may limit how you use
 the material.
 
-::::::::: admonition
-Footnotes
 
-::: {#appropriate-credit}
+## Footnotes 
+{: .notice .notice--info}
+
 **Appropriate credit**: If supplied, you must provide the name of the
 creator and attribution parties, a copyright notice, a license notice, a
 disclaimer notice, and a link to the material. CC licenses prior to
 Version 4.0 also require you to provide the title of the material if
-supplied, and may have other slight differences.
-:::
+supplied, and may have other slight differences.{: .notice}
 
-::: {#indicate}
 **Indicate changes**: In 4.0, you must indicate if you modified the
 material and retain an indication of previous modifications. In 3.0 and
 earlier license versions, the indication of changes is only required if
-you create a derivative.
-:::
+you create a derivative.{: .notice}
 
-::: {#same-license}
 **Same license**: You may also use a license listed as compatible at
-<https://creativecommons.org/compatiblelicenses>.
-:::
+<https://creativecommons.org/compatiblelicenses>.{: .notice}
 
-::: {#technological-measures}
 **Technological measures**: The license prohibits application of
 effective technological measures, defined with reference to Article 11
-of the WIPO Copyright Treaty.
-:::
+of the WIPO Copyright Treaty.{: .notice}
 
-::: {#exception}
 **Exception or limitation**: The rights of users under exceptions and
 limitations, such as fair use and fair dealing, are not affected by the
-CC licenses.\*\*
-:::
+CC licenses.\*\*{: .notice}
 
-::: {#publicity}
 **Publicity, privacy, or moral rights**: You may need to get additional
-permissions before using the material as you intend.
-:::
-:::::::::
+permissions before using the material as you intend.{: .notice}
+
 
 ## Code snippets / software
 

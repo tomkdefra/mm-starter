@@ -1,6 +1,6 @@
 ---
 title: "Exercise 3"
-permalink: /learning-and-development/pathways/geo-python/lessons/L3/exercise-3/
+permalink: /learning-and-development/pathways/geo-python/lessons/lesson-3/exercise-3/
 sidebar:
   - image: assets/images/geopython.png
     image_alt: "Geo-Python logo"

@@ -1,6 +1,6 @@
 ---
 title: "Intro to GitHub"
-permalink: /learning-and-development/pathways/geo-python/lessons/L2/intro-to-github/
+permalink: /learning-and-development/pathways/geo-python/lessons/lesson-2/intro-to-github/
 sidebar:
   - image: assets/images/geopython.png
     image_alt: "Geo-Python logo"

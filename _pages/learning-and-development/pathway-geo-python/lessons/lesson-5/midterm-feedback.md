@@ -1,6 +1,6 @@
 ---
 title: "Midterm feedback"
-permalink: /learning-and-development/pathways/geo-python/lessons/L5/midterm-feedback/
+permalink: /learning-and-development/pathways/geo-python/lessons/lesson-5/midterm-feedback/
 sidebar:
   - image: assets/images/geopython.png
     image_alt: "Geo-Python logo"

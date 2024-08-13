@@ -1,6 +1,6 @@
 ---
 title: "Motivation"
-permalink: /learning-and-development/pathways/geo-python/lessons/lesson-1/motivation/
+permalink: /learning-and-development/pathways/geo-python/lessons/lesson-esson-1/motivation/
 sidebar:
   - image: assets/images/geopython.png
     image_alt: "Geo-Python logo"

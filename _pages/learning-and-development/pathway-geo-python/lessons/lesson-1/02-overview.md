@@ -1,6 +1,6 @@
 ---
 title: "Lesson overview"
-permalink: /learning-and-development/pathways/geo-python/lessons/lesson-1/overview/
+permalink: /learning-and-development/pathways/geo-python/lessons/lesson-esson-1/overview/
 sidebar:
   - image: assets/images/geopython.png
     image_alt: "Geo-Python logo"

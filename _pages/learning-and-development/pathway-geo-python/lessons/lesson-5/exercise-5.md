@@ -1,6 +1,6 @@
 ---
 title: "Exercise 5"
-permalink: /learning-and-development/pathways/geo-python/lessons/L5/exercise-5/
+permalink: /learning-and-development/pathways/geo-python/lessons/lesson-5/exercise-5/
 sidebar:
   - image: assets/images/geopython.png
     image_alt: "Geo-Python logo"

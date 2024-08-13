@@ -1,6 +1,6 @@
 ---
 title: "Slack usage"
-permalink: /learning-and-development/pathways/geo-python/lessons/L1/slack-usage/
+permalink: /learning-and-development/pathways/geo-python/lessons/lesson-1/slack-usage/
 sidebar:
   - image: assets/images/geopython.png
     image_alt: "Geo-Python logo"

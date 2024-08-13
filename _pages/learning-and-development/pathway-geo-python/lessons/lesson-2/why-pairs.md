@@ -1,6 +1,6 @@
 ---
 title: "Why pairs"
-permalink: /learning-and-development/pathways/geo-python/lessons/L2/why-pairs/
+permalink: /learning-and-development/pathways/geo-python/lessons/lesson-2/why-pairs/
 sidebar:
   - image: assets/images/geopython.png
     image_alt: "Geo-Python logo"

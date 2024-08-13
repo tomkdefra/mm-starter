@@ -1,6 +1,6 @@
 ---
 title: "Meet Git"
-permalink: /learning-and-development/pathways/geo-python/lessons/L2/meet-git/
+permalink: /learning-and-development/pathways/geo-python/lessons/lesson-2/meet-git/
 sidebar:
   - image: assets/images/geopython.png
     image_alt: "Geo-Python logo"

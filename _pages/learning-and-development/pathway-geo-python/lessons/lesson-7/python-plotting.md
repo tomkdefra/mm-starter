@@ -1,6 +1,6 @@
 ---
 title: "Python plotting"
-permalink: /learning-and-development/pathways/geo-python/lessons/L7/python-plotting/
+permalink: /learning-and-development/pathways/geo-python/lessons/lesson-7/python-plotting/
 sidebar:
   - image: assets/images/geopython.png
     image_alt: "Geo-Python logo"

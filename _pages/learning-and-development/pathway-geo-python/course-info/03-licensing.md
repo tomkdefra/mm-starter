@@ -1,8 +1,11 @@
 ---
+sidebar:
+  - image: assets/images/geopython.png
+    image_alt: "Geo-Python logo. A 'Blue Marble' globe with the words 'Geo-Python'"
+  - nav: "geo-python"
 title: "License and using these materials"
 permalink: /learning-and-development/pathways/geo-python/course-info/licensing/
-sidebar:
-  nav: "geo-python"
+
 ---
 
 
@@ -67,23 +70,23 @@ permissions necessary for your intended use. For example, other rights
 such as [publicity](), privacy, or moral rights may limit how you use
 the material.
 
-::: {.notice .notice--info}
 
-## Footnotes
+> ## Footnotes 
+> 
+> **Appropriate credit**: If supplied, you must provide the name of the creator and attribution parties, a copyright notice, a license notice, a disclaimer notice, and a link to the material. CC licenses prior to Version 4.0 also require you to provide the title of the material if supplied, and may have other slight differences.
+> 
+> **Indicate changes**: In 4.0, you must indicate if you modified the material and retain an indication of previous modifications. In 3.0 and earlier license versions, the indication of changes is only required if you create a derivative.
+> 
+> **Same license**: You may also use a license listed as compatible at <https://creativecommons.org/compatiblelicenses>.
+> 
+> **Technological measures**: The license prohibits application of effective technological measures, defined with reference to Article 11 of the WIPO Copyright Treaty.
+> 
+> **Exception or limitation**: The rights of users under exceptions and limitations, such as fair use and fair dealing, are not affected by the CC licenses.
+> 
+> **Publicity, privacy, or moral rights**: You may need to get additional permissions before using the material as you intend.
+>
+{: .notice .notice--info}
 
-**Appropriate credit**: If supplied, you must provide the name of the creator and attribution parties, a copyright notice, a license notice, a disclaimer notice, and a link to the material. CC licenses prior to Version 4.0 also require you to provide the title of the material if supplied, and may have other slight differences.
-
-**Indicate changes**: In 4.0, you must indicate if you modified the material and retain an indication of previous modifications. In 3.0 and earlier license versions, the indication of changes is only required if you create a derivative.
-
-**Same license**: You may also use a license listed as compatible at <https://creativecommons.org/compatiblelicenses>.
-
-**Technological measures**: The license prohibits application of effective technological measures, defined with reference to Article 11 of the WIPO Copyright Treaty.
-
-**Exception or limitation**: The rights of users under exceptions and limitations, such as fair use and fair dealing, are not affected by the CC licenses.
-
-**Publicity, privacy, or moral rights**: You may need to get additional permissions before using the material as you intend.
-
-:::
 
 ## Code snippets / software
 
@@ -104,7 +107,7 @@ easily copy and customize the course materials for your use.
 1.  If you do not already have one, create a GitHub user account at
     <https://github.com>. You can find instructions for this as part of
     [Exercise 1 in the
-    course](https://geo-python-site.readthedocs.io/en/latest/lessons/L1/exercise-1.html#part-1-sign-up-for-github).
+    course](/learning-and-development/pathways/geo-python/lessons/lesson-1/exercise-1/#part-1-sign-up-for-github).
 2.  If you do not already have one, create a \"Read the Docs Community\"
     account on Read the Docs at <https://about.readthedocs.com>. You can
     click **Sign up** to get started, and we recommend that you use the

@@ -38,17 +38,36 @@ After this weeks lesson your should be able to:
 
 **Lesson 1.1 - Course introduction and computing basics**
 {: .notice--info}
-<iframe width="640" height="360" src="https://www.youtube.com/embed/LoJrk3a4x88" frameborder="0" allowfullscreen></iframe>
+<iframe
+  width="640"
+  height="360"
+  src="https://www.youtube.com/embed/LoJrk3a4x88"
+  frameborder="0"
+  allowfullscreen
+  style="border: 10px solid #1d70b8; border-radius: 15px; overflow: hidden;">
+</iframe>
 
 
 **Lesson 1.2 - Course environment and a taste of Python**
 {: .notice--info}
-<iframe width="640" height="360" src="https://www.youtube.com/embed/MD0LteTpJNA" frameborder="0" allowfullscreen></iframe>
+<iframe
+  width="640" 
+  height="360" 
+  src="https://www.youtube.com/embed/MD0LteTpJNA" 
+  frameborder="0" 
+  allowfullscreen>
+</iframe>
 
 
 **GCP 1 - Selecting \"good\" variable names**
 {: .notice--info}
-<iframe width="640" height="360" src="https://www.youtube.com/embed/G0FZkgbQYGg" frameborder="0" allowfullscreen></iframe>
+<iframe
+  width="640"
+  height="360"
+  src="https://www.youtube.com/embed/G0FZkgbQYGg"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
 
 
 ## Lecture slides

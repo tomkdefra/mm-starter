@@ -1,11 +1,10 @@
 ---
+title: Forking and Cloning a GitHub Repository into Databricks
 permalink: /learning-and-development/pathways/geo-python/lessons/lesson-1/course-notebooks/
 sidebar:
   nav: "geo-python"
 ---
-
-
-# Forking and Cloning a GitHub Repository into Databricks
+ 
 
 ## Forking the Repository
 

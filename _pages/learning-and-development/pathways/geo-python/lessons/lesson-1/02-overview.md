@@ -48,7 +48,7 @@ After this weeks lesson your should be able to:
 
 **GCP 1 - Selecting \"good\" variable names**
 {: .notice--info}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G0FZkgbQYGg?si=2r-eR0eP-50zJsdv" title="YouTube video player" frameborder="0" allow=picture-in-picture; referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/G0FZkgbQYGg" frameborder="0" allowfullscreen></iframe>
 
 
 ## Lecture slides

@@ -68,39 +68,21 @@ such as [publicity](), privacy, or moral rights may limit how you use
 the material.
 
 
-## Footnotes 
-{: .notice .notice--info}
+> ## Footnotes 
+> 
+> **Appropriate credit**: If supplied, you must provide the name of the creator and attribution parties, a copyright notice, a license notice, a disclaimer notice, and a link to the material. CC licenses prior to Version 4.0 also require you to provide the title of the material if supplied, and may have other slight differences.
+> 
+> **Indicate changes**: In 4.0, you must indicate if you modified the material and retain an indication of previous modifications. In 3.0 and earlier license versions, the indication of changes is only required if you create a derivative.
+> 
+> **Same license**: You may also use a license listed as compatible at <https://creativecommons.org/compatiblelicenses>.
+> 
+> **Technological measures**: The license prohibits application of effective technological measures, defined with reference to Article 11 of the WIPO Copyright Treaty.
+> 
+> **Exception or limitation**: The rights of users under exceptions and limitations, such as fair use and fair dealing, are not affected by the CC licenses.
+> 
+> **Publicity, privacy, or moral rights**: You may need to get additional permissions before using the material as you intend.
+> {: .notice .notice--info}
 
-**Appropriate credit**: If supplied, you must provide the name of the
-creator and attribution parties, a copyright notice, a license notice, a
-disclaimer notice, and a link to the material. CC licenses prior to
-Version 4.0 also require you to provide the title of the material if
-supplied, and may have other slight differences.
-{: .notice .notice--info}
-
-**Indicate changes**: In 4.0, you must indicate if you modified the
-material and retain an indication of previous modifications. In 3.0 and
-earlier license versions, the indication of changes is only required if
-you create a derivative.
-{: .notice .notice--info}
-
-**Same license**: You may also use a license listed as compatible at
-<https://creativecommons.org/compatiblelicenses>.
-{: .notice .notice--info}
-
-**Technological measures**: The license prohibits application of
-effective technological measures, defined with reference to Article 11
-of the WIPO Copyright Treaty.
-{: .notice .notice--info}
-
-**Exception or limitation**: The rights of users under exceptions and
-limitations, such as fair use and fair dealing, are not affected by the
-CC licenses.\*\*
-{: .notice .notice--info}
-
-**Publicity, privacy, or moral rights**: You may need to get additional
-permissions before using the material as you intend.
-{: .notice .notice--info}
 
 
 ## Code snippets / software

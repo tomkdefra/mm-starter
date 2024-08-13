@@ -38,12 +38,12 @@ After this weeks lesson your should be able to:
 
 **Lesson 1.1 - Course introduction and computing basics**
 {: .notice--info}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LoJrk3a4x88?si=Uyd6Tn-nG_sbifxn" title="YouTube video player" frameborder="0" allow=picture-in-picture; referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/LoJrk3a4x88" frameborder="0" allowfullscreen></iframe>
 
 
 **Lesson 1.2 - Course environment and a taste of Python**
 {: .notice--info}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MD0LteTpJNA?si=cj_TMtMoZmkW4hDN" title="YouTube video player" frameborder="0" allow=picture-in-picture; referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/MD0LteTpJNA" frameborder="0" allowfullscreen></iframe>
 
 
 **GCP 1 - Selecting \"good\" variable names**

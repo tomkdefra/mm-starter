@@ -81,7 +81,8 @@ the material.
 > **Exception or limitation**: The rights of users under exceptions and limitations, such as fair use and fair dealing, are not affected by the CC licenses.
 > 
 > **Publicity, privacy, or moral rights**: You may need to get additional permissions before using the material as you intend.
-> {: .notice .notice--info}
+>
+{: .notice .notice--info}
 
 
 

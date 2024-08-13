@@ -44,7 +44,7 @@ geo-python:
   - title: Lesson 2
     children:
       - title: "Lesson overview"
-        url: /learning-and-development/pathways/geo-python/lessons/lesson-2/lesson-overview/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-2/overview/
       - title: "Basic elements of Python"
         url: /learning-and-development/pathways/geo-python/lessons/lesson-2/basic-elements-of-python/
       - title: "Introduction to Version Control"
@@ -62,7 +62,7 @@ geo-python:
   - title: Lesson 3
     children:
       - title: "Lesson overview"
-        url: /learning-and-development/pathways/geo-python/lessons/lesson-3/lesson-overview/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-3/overview/
       - title: "for loops"
         url: /learning-and-development/pathways/geo-python/lessons/lesson-3/for-loops/
       - title: "Conditional statements"
@@ -74,7 +74,7 @@ geo-python:
   - title: Lesson 4
     children:
       - title: "Lesson overview"
-        url: /learning-and-development/pathways/geo-python/lessons/lesson-4/lesson-overview/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-4/overview/
       - title: "Functions"
         url: /learning-and-development/pathways/geo-python/lessons/lesson-4/functions/
       - title: "AI and programming in Python"
@@ -90,7 +90,7 @@ geo-python:
   - title: Lesson 5
     children:
       - title: "Lesson overview"
-        url: /learning-and-development/pathways/geo-python/lessons/lesson-5/lesson-overview/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-5/overview/
       - title: "What is pandas?"
         url: /learning-and-development/pathways/geo-python/lessons/lesson-5/what-is-pandas/
       - title: "Exploring data using pandas"
@@ -102,7 +102,7 @@ geo-python:
   - title: Lesson 6
     children:
       - title: "Lesson overview"
-        url: /learning-and-development/pathways/geo-python/lessons/lesson-6/lesson-overview/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-6/overview/
       - title: "Processing data with pandas II"
         url: /learning-and-development/pathways/geo-python/lessons/lesson-6/processing-data-with-pandas-ii/
       - title: "Dealing with errors"
@@ -116,7 +116,7 @@ geo-python:
   - title: Lesson 7
     children:
       - title: "Lesson overview"
-        url: /learning-and-development/pathways/geo-python/lessons/lesson-7/lesson-overview/
+        url: /learning-and-development/pathways/geo-python/lessons/lesson-7/overview/
       - title: "Plotting in Python"
         url: /learning-and-development/pathways/geo-python/lessons/lesson-7/plotting-in-python/
       - title: "Anatomy of a plot"

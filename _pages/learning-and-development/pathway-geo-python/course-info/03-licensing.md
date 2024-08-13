@@ -67,8 +67,7 @@ permissions necessary for your intended use. For example, other rights
 such as [publicity](), privacy, or moral rights may limit how you use
 the material.
 
-
-<div class="notice notice--info">
+::: {.notice .notice--info}
 
 ## Footnotes
 
@@ -84,9 +83,7 @@ the material.
 
 **Publicity, privacy, or moral rights**: You may need to get additional permissions before using the material as you intend.
 
-</div>
-
-
+:::
 
 ## Code snippets / software
 

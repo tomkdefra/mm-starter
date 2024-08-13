@@ -22,7 +22,7 @@ To help clarify our goals, consider the example below.
 
 ## Effective data visualisation
 
-One of the things we will learn in this course is how to use Python to
+One of the things this course teaches is how to use Python to
 plot data. As you well know, raw data itself is often not particularly
 useful in helping you understand what the data shows. Let's look at an
 example that might be familiar to you, global temperature data.
@@ -97,17 +97,12 @@ href="https://www.ncdc.noaa.gov/sotc/global/201603">https://www.ncdc.noaa.gov/so
 And yet again, this helps us understand the data further. Not only do we
 see the change in temperature, but now we see how temperatures vary
 across the globe. The drawback here is that we only see a single time
-snapshot, rather than a time series. To see both will require a truly
-remarkable visualisation.
+snapshot, rather than a time series. To see both will require a more complex 
+visualisation.
 
-So, let's look now at some excellent examples of data visualisation
+So, let's look now at some examples of data visualisation
 with Python. We have essentially the same data plotted above, but now we
 can see how temperatures vary in space and time.
-
-<video width="800" controls>
-  <source src="../../../assets/Temp-anomalies-2018.mp4" type="video/mp4">
-</video>
-<p style="text-align:center"><i>Global temperature anomalies by country from 1900-2017. Visualisation by Antti Lipponen (<a href="https://twitter.com/anttilip">@anttilip</a>). Source: <a href="https://t.co/ZdGPVTM5yO">https://t.co/ZdGPVTM5yO</a></i></p>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/150411108@N06/43350961005/" title="Temperature Anomalies by Country 1880-2017"><img src="https://live.staticflickr.com/1864/43350961005_2a869140de_o.jpg" width="1920" height="1080" alt="Temperature Anomalies by Country 1880-2017"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -120,15 +115,12 @@ that this animation was made using Python!
 Another example shows similar data in a different format, including a
 peek into the future.
 
-<video width="800" controls>
-  <source src="../../../assets/Temp-anomalies-2019.mp4" type="video/mp4">
-</video>
-<p style="text-align:center"><i>Global temperature anomalies past and future, 1900-2100. Visualisation by Antti Lipponen (<a href="https://twitter.com/anttilip">@anttilip</a>). Source: <a href="https://t.co/NP22dZ0sCu">https://t.co/NP22dZ0sCu</a></i></p>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/150411108@N06/32143092107/" title="Temperature Circle - The Future"><img src="https://live.staticflickr.com/7822/32143092107_e83da507f2_o.jpg" width="1280" height="720" alt="Temperature Circle - The Future"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 This plot nicely conveys the warming of different regions on Earth,
 again in an intuitive format.
 
 For the rest of the first part of this course, plots like that above can
 be our inspiration. In fact, we will be working with similar data
-throughout this part of the course and may even end up producing similar
-plots in by the end of this teaching period.
+throughout this part of the course and you may even end up producing similar
+plots by the time you complete this course.

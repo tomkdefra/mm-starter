@@ -1,5 +1,5 @@
 ---
-title: "Motivation"
+title: "Motivation for the course"
 permalink: /learning-and-development/pathways/geo-python/lessons/lesson-1/motivation/
 sidebar:
   - image: assets/images/geopython.png
@@ -7,8 +7,6 @@ sidebar:
   - nav: "geo-python"
 ---
 
-
-# Motivation for the course
 
 The main part of the first half of this course is to learn to program in
 Python. However, in addition to learning to program, we hope to help you
@@ -107,11 +105,11 @@ with Python. We have essentially the same data plotted above, but now we
 can see how temperatures vary in space and time.
 
 <video width="800" controls>
-  <source src="../../_static/Temp-anomalies-2018.mp4" type="video/mp4">
+  <source src="_pages/learning-and-development/pathway-geo-python/_static/Temp-anomalies-2018.mp4" type="video/mp4">
 </video>
 <p style="text-align:center"><i>Global temperature anomalies by country from 1900-2017. Visualisation by Antti Lipponen (<a href="https://twitter.com/anttilip">@anttilip</a>). Source: <a href="https://t.co/ZdGPVTM5yO">https://t.co/ZdGPVTM5yO</a></i></p>
 
-This animated \"pill packet\" plot of temperature anomalies conveys a
+This animated "pill packet" plot of temperature anomalies conveys a
 huge amount of information in a simple form. People can immediately
 understand what is plotted, and the combination of the plot format,
 colors and animation are very effective. What even better is the fact
@@ -121,7 +119,7 @@ Another example shows similar data in a different format, including a
 peek into the future.
 
 <video width="800" controls>
-  <source src="../../_static/Temp-anomalies-2019.mp4" type="video/mp4">
+  <source src="_pages/learning-and-development/pathway-geo-python/_static/Temp-anomalies-2019.mp4" type="video/mp4">
 </video>
 <p style="text-align:center"><i>Global temperature anomalies past and future, 1900-2100. Visualisation by Antti Lipponen (<a href="https://twitter.com/anttilip">@anttilip</a>). Source: <a href="https://t.co/NP22dZ0sCu">https://t.co/NP22dZ0sCu</a></i></p>
 

@@ -13,7 +13,7 @@ sidebar:
 During the second week we will dive into Python and learn some basic
 elements of Python programming language. We will also continue learning
 how to use the Course Environment and version control with Git + GitHub.
-The main components of today\'s lesson can be found in the navigation
+The main components of today's lesson can be found in the navigation
 bar to the left.
 
 ## Learning goals

@@ -105,7 +105,7 @@ with Python. We have essentially the same data plotted above, but now we
 can see how temperatures vary in space and time.
 
 <video width="800" controls>
-  <source src="./_pages/learning-and-development/pathway-geo-python/_static/Temp-anomalies-2018.mp4" type="video/mp4">
+  <source src="../../../_static/Temp-anomalies-2018.mp4" type="video/mp4">
 </video>
 <p style="text-align:center"><i>Global temperature anomalies by country from 1900-2017. Visualisation by Antti Lipponen (<a href="https://twitter.com/anttilip">@anttilip</a>). Source: <a href="https://t.co/ZdGPVTM5yO">https://t.co/ZdGPVTM5yO</a></i></p>
 
@@ -119,7 +119,7 @@ Another example shows similar data in a different format, including a
 peek into the future.
 
 <video width="800" controls>
-  <source src="./_pages/learning-and-development/pathway-geo-python/_static/Temp-anomalies-2019.mp4" type="video/mp4">
+  <source src="../../../_static/Temp-anomalies-2019.mp4" type="video/mp4">
 </video>
 <p style="text-align:center"><i>Global temperature anomalies past and future, 1900-2100. Visualisation by Antti Lipponen (<a href="https://twitter.com/anttilip">@anttilip</a>). Source: <a href="https://t.co/NP22dZ0sCu">https://t.co/NP22dZ0sCu</a></i></p>
 

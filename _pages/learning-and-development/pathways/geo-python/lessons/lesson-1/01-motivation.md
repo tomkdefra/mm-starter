@@ -109,6 +109,8 @@ can see how temperatures vary in space and time.
 </video>
 <p style="text-align:center"><i>Global temperature anomalies by country from 1900-2017. Visualisation by Antti Lipponen (<a href="https://twitter.com/anttilip">@anttilip</a>). Source: <a href="https://t.co/ZdGPVTM5yO">https://t.co/ZdGPVTM5yO</a></i></p>
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/150411108@N06/43350961005/" title="Temperature Anomalies by Country 1880-2017"><img src="https://live.staticflickr.com/1864/43350961005_2a869140de_o.jpg" width="1920" height="1080" alt="Temperature Anomalies by Country 1880-2017"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 This animated "pill packet" plot of temperature anomalies conveys a
 huge amount of information in a simple form. People can immediately
 understand what is plotted, and the combination of the plot format,

@@ -2,7 +2,9 @@
 title: "Glossary"
 permalink: /learning-and-development/pathways/geo-python/course-info/glossary/
 sidebar:
-  nav: "geo-python"
+  - image: assets/images/geopython.png
+    image_alt: "Geo-Python logo"
+  - nav: "geo-python"
 ---
 
 

@@ -2,7 +2,9 @@
 title: "The Geo-Python team"
 permalink: /learning-and-development/pathways/geo-python/course-info/theteam/
 sidebar:
-  nav: "geo-python"
+  - image: assets/images/geopython.png
+    image_alt: "Geo-Python logo"
+  - nav: "geo-python"
 ---
 
 

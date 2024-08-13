@@ -2,7 +2,9 @@
 title: "Plot anatomy"
 permalink: /learning-and-development/pathways/geo-python/lessons/L7/plot-anatomy/
 sidebar:
-  nav: "geo-python"
+  - image: assets/images/geopython.png
+    image_alt: "Geo-Python logo"
+  - nav: "geo-python"
 ---
 
 

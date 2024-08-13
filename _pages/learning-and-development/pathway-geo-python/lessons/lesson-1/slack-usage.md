@@ -2,7 +2,9 @@
 title: "Slack usage"
 permalink: /learning-and-development/pathways/geo-python/lessons/L1/slack-usage/
 sidebar:
-  nav: "geo-python"
+  - image: assets/images/geopython.png
+    image_alt: "Geo-Python logo"
+  - nav: "geo-python"
 ---
 
 

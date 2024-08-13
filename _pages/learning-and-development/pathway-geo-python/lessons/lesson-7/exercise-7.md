@@ -2,7 +2,9 @@
 title: "Exercise 7"
 permalink: /learning-and-development/pathways/geo-python/lessons/L7/exercise-7/
 sidebar:
-  nav: "geo-python"
+  - image: assets/images/geopython.png
+    image_alt: "Geo-Python logo"
+  - nav: "geo-python"
 ---
 
 

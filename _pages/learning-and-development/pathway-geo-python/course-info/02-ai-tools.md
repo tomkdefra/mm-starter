@@ -2,7 +2,9 @@
 title: "Use of AI tools"
 permalink: /learning-and-development/pathways/geo-python/course-info/ai-tools/
 sidebar:
-  nav: "geo-python"
+  - image: assets/images/geopython.png
+    image_alt: "Geo-Python logo"
+  - nav: "geo-python"
 ---
 
 

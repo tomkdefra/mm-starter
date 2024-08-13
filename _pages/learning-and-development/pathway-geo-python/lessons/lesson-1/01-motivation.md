@@ -2,7 +2,9 @@
 title: "Motivation"
 permalink: /learning-and-development/pathways/geo-python/lessons/lesson-1/motivation/
 sidebar:
-  nav: "geo-python"
+  - image: assets/images/geopython.png
+    image_alt: "Geo-Python logo"
+  - nav: "geo-python"
 ---
 
 

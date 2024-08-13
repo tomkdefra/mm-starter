@@ -2,7 +2,9 @@
 title: "Overview"
 permalink: /learning-and-development/pathways/geo-python/final-exercise/overview/
 sidebar:
-  nav: "geo-python"
+  - image: assets/images/geopython.png
+    image_alt: "Geo-Python logo"
+  - nav: "geo-python"
 ---
 
 

@@ -2,7 +2,9 @@
 title: "Intro to GitHub"
 permalink: /learning-and-development/pathways/geo-python/lessons/L2/intro-to-github/
 sidebar:
-  nav: "geo-python"
+  - image: assets/images/geopython.png
+    image_alt: "Geo-Python logo"
+  - nav: "geo-python"
 ---
 
 

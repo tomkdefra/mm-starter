@@ -3,7 +3,7 @@ title: ""
 permalink: /learning-and-development/pathways/geo-python/
 sidebar:
   - image: assets/images/geopython.png
-    image_alt: "Geo-Python logo. A 'Blue Marble' globe with the words 'Geo-Python'"
+    image_alt: "Geo-Python logo"
   - nav: "geo-python"
 ---
 

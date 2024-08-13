@@ -1,14 +1,10 @@
 ---
+title: "License and using these materials"
+permalink: /learning-and-development/pathways/geo-python/course-info/licensing/
 sidebar:
   - image: assets/images/geopython.png
     image_alt: "Geo-Python logo"
-  - nav: "geo-python"  - image: assets/images/geopython.png
-    image_alt: "Geo-Python logo. A 'Blue Marble' globe with the words 'Geo-Python'"
   - nav: "geo-python"
-title: "License and using these materials"
-permalink: /learning-and-development/pathways/geo-python/course-info/licensing/
-
-
 ---
 
 

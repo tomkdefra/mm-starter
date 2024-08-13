@@ -1,6 +1,6 @@
 ---
 title: Forking and Cloning a GitHub Repository into Databricks
-permalink: /learning-and-development/pathways/geo-python/lessons/lesson-esson-1/course-notebooks/
+permalink: /learning-and-development/pathways/geo-python/lessons/lesson-1/course-notebooks/
 sidebar:
   - image: assets/images/geopython.png
     image_alt: "Geo-Python logo"

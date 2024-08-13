@@ -1,6 +1,6 @@
 ---
 title: "Course environment components"
-permalink: /learning-and-development/pathways/geo-python/lessons/lesson-esson-1/course-environment/
+permalink: /learning-and-development/pathways/geo-python/lessons/lesson-1/course-environment/
 sidebar:
   - image: assets/images/geopython.png
     image_alt: "Geo-Python logo"

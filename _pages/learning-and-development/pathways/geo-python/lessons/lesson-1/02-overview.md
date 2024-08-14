@@ -44,22 +44,9 @@ After this weeks lesson your should be able to:
   src="https://www.youtube.com/embed/LoJrk3a4x88"
   frameborder="0"
   allowfullscreen
-  style="border: 10px solid #3b9cba; border-radius: 5px; overflow: hidden;">
+  style="border: 20px solid #d8ebf1; border-radius: 5px; overflow: hidden;">
 </iframe>
 
-<div style="border: 10px solid #d8ebf1; border-top-width: 60px; border-radius: 5px; width: 640px; padding: 0; overflow: hidden; position: relative; margin-bottom: 20px;">
-  <div style="position: absolute; top: -30px; left: 10px; width: calc(100% - 20px); background-color: #d8ebf1; color: black; padding: 5px; text-align: left; font-size: 22px;">
-    Lesson 1.1 - Course introduction and computing basics
-  </div>
-  <iframe 
-    width="640" 
-    height="360" 
-    src="https://www.youtube.com/embed/LoJrk3a4x88" 
-    frameborder="0" 
-    allowfullscreen 
-    style="border: none; border-radius: 0 0 15px 15px;">
-  </iframe>
-</div>
 
 **Lesson 1.2 - Course environment and a taste of Python**
 {: .notice--info}
@@ -68,7 +55,8 @@ After this weeks lesson your should be able to:
   height="360" 
   src="https://www.youtube.com/embed/MD0LteTpJNA" 
   frameborder="0" 
-  allowfullscreen>
+  allowfullscreen
+  style="border: 20px solid #d8ebf1; border-radius: 5px; overflow: hidden;">
 </iframe>
 
 
@@ -79,7 +67,8 @@ After this weeks lesson your should be able to:
   height="360"
   src="https://www.youtube.com/embed/G0FZkgbQYGg"
   frameborder="0"
-  allowfullscreen>
+  allowfullscreen
+  style="border: 20px solid #d8ebf1; border-radius: 5px; overflow: hidden;">
 </iframe>
 
 

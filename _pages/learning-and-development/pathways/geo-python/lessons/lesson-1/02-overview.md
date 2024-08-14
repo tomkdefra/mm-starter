@@ -47,8 +47,8 @@ After this weeks lesson your should be able to:
   style="border: 10px solid #3b9cba; border-radius: 5px; overflow: hidden;">
 </iframe>
 
-<div style="border: 10px solid #d8ebf1; border-top-width: 50px; border-radius: 15px; width: 640px; padding: 0; overflow: hidden; position: relative; margin-bottom: 20px;">
-  <div style="position: absolute; top: 0; left: 0; width: 100%; background-color: #d8ebf1; color: white; padding: 5px 0; text-align: center; font-size: 16px;">
+<div style="border: 10px solid #d8ebf1; border-top-width: 60px; border-radius: 5px; width: 640px; padding: 0; overflow: hidden; position: relative; margin-bottom: 20px;">
+  <div style="position: absolute; top: -30px; left: 10px; width: calc(100% - 20px); background-color: #d8ebf1; color: black; padding: 5px; text-align: left; font-size: 22px;">
     Lesson 1.1 - Course introduction and computing basics
   </div>
   <iframe 

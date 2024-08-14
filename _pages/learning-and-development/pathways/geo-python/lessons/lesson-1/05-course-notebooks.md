@@ -18,7 +18,7 @@ To fork a repository, use the following process:
 2. Fill in the required details for your new repository.
 3. Click the "Create fork" button.
 
-[Create a Fork](https://github.com/tomkdefra/geo-python-notebooks/fork)(){: .btn .btn--primary .btn--large}
+[Create a Fork](https://github.com/tomkdefra/geo-python-notebooks/fork){: .btn .btn--primary .btn--large}
 
 
 ## Cloning Your Fork into Databricks

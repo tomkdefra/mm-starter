@@ -36,7 +36,7 @@ After this weeks lesson your should be able to:
 
 ## Lesson videos
 
-**Lesson 1.1 - Course introduction and computing basics**
+### Lesson 1.1 - Course introduction and computing basics
 {: .notice--info}
 <iframe
   width="640"
@@ -48,7 +48,7 @@ After this weeks lesson your should be able to:
 </iframe>
 
 
-**Lesson 1.2 - Course environment and a taste of Python**
+### Lesson 1.2 - Course environment and a taste of Python
 {: .notice--info}
 <iframe
   width="640" 
@@ -60,7 +60,7 @@ After this weeks lesson your should be able to:
 </iframe>
 
 
-**GCP 1 - Selecting \"good\" variable names**
+### GCP 1 - Selecting \"good\" variable names
 {: .notice--info}
 <iframe
   width="640"

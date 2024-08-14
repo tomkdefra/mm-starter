@@ -44,9 +44,22 @@ After this weeks lesson your should be able to:
   src="https://www.youtube.com/embed/LoJrk3a4x88"
   frameborder="0"
   allowfullscreen
-  style="border: 10px solid #1d70b8; border-radius: 15px; overflow: hidden;">
+  style="border: 10px solid #3b9cba; border-radius: 5px; overflow: hidden;">
 </iframe>
 
+<div style="border: 10px solid #1d70b8; border-top-width: 50px; border-radius: 15px; width: 640px; padding: 0; overflow: hidden; position: relative; margin-bottom: 20px;">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; background-color: #1d70b8; color: white; padding: 5px 0; text-align: center; font-size: 16px;">
+    Lesson 1.1 - Course introduction and computing basics
+  </div>
+  <iframe 
+    width="640" 
+    height="360" 
+    src="https://www.youtube.com/embed/LoJrk3a4x88" 
+    frameborder="0" 
+    allowfullscreen 
+    style="border: none; border-radius: 0 0 15px 15px;">
+  </iframe>
+</div>
 
 **Lesson 1.2 - Course environment and a taste of Python**
 {: .notice--info}

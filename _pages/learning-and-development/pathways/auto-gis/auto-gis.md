@@ -2,9 +2,12 @@
 title: "Auto gis"
 permalink: /learning-and-development/pathways/auto-gis/
 sidebar:
-  nav: "auto-gis"
+  - image: assets/images/autogis-logo_300x210px.svg
+    image_alt: "Auto-GIS logo"
+  - nav: "auto-gis"
 ---
 
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/autogis-logo_300x210px.svg)
 
 **Welcome to the *Automating GIS processes* course {{year}}!** Through interactive
 lessons and hands-on exercises, this course introduces you to geographic data

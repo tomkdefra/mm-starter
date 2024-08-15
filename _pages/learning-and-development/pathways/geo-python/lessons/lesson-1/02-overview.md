@@ -36,37 +36,36 @@ After this weeks lesson your should be able to:
 
 ## Lesson videos
 
-**Lesson 1.1 - Course introduction and computing basics**
-{: .notice--info}
+### Lesson 1.1 - Course introduction and computing basics
 <iframe
   width="640"
   height="360"
   src="https://www.youtube.com/embed/LoJrk3a4x88"
   frameborder="0"
   allowfullscreen
-  style="border: 10px solid #1d70b8; border-radius: 5px; overflow: hidden;">
+  style="border: 20px solid #d8ebf1; border-radius: 5px; overflow: hidden;">
 </iframe>
 
 
-**Lesson 1.2 - Course environment and a taste of Python**
-{: .notice--info}
+### Lesson 1.2 - Course environment and a taste of Python
 <iframe
   width="640" 
   height="360" 
   src="https://www.youtube.com/embed/MD0LteTpJNA" 
   frameborder="0" 
-  allowfullscreen>
+  allowfullscreen
+  style="border: 20px solid #d8ebf1; border-radius: 5px; overflow: hidden;">
 </iframe>
 
 
-**GCP 1 - Selecting \"good\" variable names**
-{: .notice--info}
+### GCP 1 - Selecting \"good\" variable names
 <iframe
   width="640"
   height="360"
   src="https://www.youtube.com/embed/G0FZkgbQYGg"
   frameborder="0"
-  allowfullscreen>
+  allowfullscreen
+  style="border: 20px solid #d8ebf1; border-radius: 5px; overflow: hidden;">
 </iframe>
 
 

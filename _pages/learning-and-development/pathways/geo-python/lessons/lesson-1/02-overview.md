@@ -44,7 +44,7 @@ After this weeks lesson your should be able to:
   src="https://www.youtube.com/embed/LoJrk3a4x88"
   frameborder="0"
   allowfullscreen
-  style="border: 10px solid #1d70b8; border-radius: 15px; overflow: hidden;">
+  style="border: 10px solid #1d70b8; border-radius: 5px; overflow: hidden;">
 </iframe>
 
 

@@ -42,4 +42,4 @@ The materials are presented in a way that you can follow them step by step exact
 
 **For teachers**
 
-As per the original course material and license, fi you would like to use these materials for your own teaching or develop them further, we highly support that. Please read more about how to do it from [the licensing terms](course-info/licensing).
+As per the original course material and license, if you would like to use these materials for your own teaching or develop them further, we highly support that. Please read more about how to do it from [the licensing terms](course-info/licensing).

@@ -13,6 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale: "en-GB"
 title: " "
 logo: /assets/images/DASH_small_logo_white.png
 email:
@@ -33,9 +34,9 @@ remote_theme: mmistakes/minimal-mistakes@4.26.2
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /newsletter/page:num/
-timezone: BST
+# paginate: 5 # amount of posts to show
+# paginate_path: /newsletter/page:num/
+timezone: Europe/London
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -57,6 +58,15 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache  
 
 footer:
   links:
